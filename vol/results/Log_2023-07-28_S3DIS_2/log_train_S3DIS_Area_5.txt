@@ -1,0 +1,1411 @@
+****EPOCH 4****
+Session Started
+Step 00003050 L_out=8.657 Acc=0.63 --- 4880.77 ms/batch
+Step 00003100 L_out=6.197 Acc=0.69 --- 4699.39 ms/batch
+Step 00003150 L_out=6.131 Acc=0.68 --- 6103.32 ms/batch
+Step 00003200 L_out=5.397 Acc=0.73 --- 6287.97 ms/batch
+Step 00003250 L_out=8.775 Acc=0.70 --- 5828.40 ms/batch
+Step 00003300 L_out=7.228 Acc=0.62 --- 7218.19 ms/batch
+Step 00003350 L_out=7.023 Acc=0.70 --- 4802.96 ms/batch
+Step 00003400 L_out=4.427 Acc=0.77 --- 4211.85 ms/batch
+Step 00003450 L_out=7.463 Acc=0.76 --- 5536.78 ms/batch
+Step 00003500 L_out=8.748 Acc=0.73 --- 3564.75 ms/batch
+eval accuracy: 0.5972438557942709
+mean IOU:0.3209633416300782
+Mean IoU = 32.1%
+--------------------------------------------------------------------------------------
+32.10 | 85.01 78.07 31.58  0.01  0.29 19.56  8.49 40.32 53.71 10.02 51.75  6.12 32.32 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 33.128
+****EPOCH 5****
+Step 00003550 L_out=5.008 Acc=0.80 --- 5411.82 ms/batch
+Step 00003600 L_out=5.455 Acc=0.80 --- 5572.52 ms/batch
+Step 00003650 L_out=9.244 Acc=0.64 --- 5260.44 ms/batch
+Step 00003700 L_out=6.888 Acc=0.67 --- 7461.89 ms/batch
+Step 00003750 L_out=9.957 Acc=0.59 --- 5193.42 ms/batch
+Step 00003800 L_out=6.049 Acc=0.65 --- 3132.84 ms/batch
+Step 00003850 L_out=5.969 Acc=0.72 --- 5696.43 ms/batch
+Step 00003900 L_out=9.474 Acc=0.65 --- 5698.37 ms/batch
+Step 00003950 L_out=5.942 Acc=0.65 --- 4477.04 ms/batch
+Step 00004000 L_out=6.691 Acc=0.43 --- 4795.33 ms/batch
+****EPOCH 6****
+Step 00004050 L_out=4.083 Acc=0.75 --- 4123.14 ms/batch
+Step 00004100 L_out=7.758 Acc=0.76 --- 4104.14 ms/batch
+Step 00004150 L_out=5.444 Acc=0.65 --- 4802.93 ms/batch
+Step 00004200 L_out=6.122 Acc=0.70 --- 5888.03 ms/batch
+Step 00004250 L_out=5.551 Acc=0.68 --- 5324.11 ms/batch
+Step 00004300 L_out=6.091 Acc=0.73 --- 4747.93 ms/batch
+Step 00004350 L_out=5.940 Acc=0.73 --- 3000.10 ms/batch
+Step 00004400 L_out=5.673 Acc=0.77 --- 3096.71 ms/batch
+Step 00004450 L_out=6.620 Acc=0.68 --- 4584.11 ms/batch
+Step 00004500 L_out=7.733 Acc=0.70 --- 2925.88 ms/batch
+eval accuracy: 0.5728083902994792
+mean IOU:0.3452177313374876
+Mean IoU = 34.5%
+--------------------------------------------------------------------------------------
+34.52 | 83.77 94.54  7.26  0.00  8.78  9.36 27.30 57.27 63.83 10.50 52.36  1.32 32.48 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 34.522
+****EPOCH 7****
+Step 00004550 L_out=6.716 Acc=0.68 --- 4689.00 ms/batch
+Step 00004600 L_out=4.343 Acc=0.83 --- 5702.94 ms/batch
+Step 00004650 L_out=4.158 Acc=0.71 --- 6105.77 ms/batch
+Step 00004700 L_out=6.955 Acc=0.70 --- 6182.57 ms/batch
+Step 00004750 L_out=6.959 Acc=0.73 --- 3140.51 ms/batch
+Step 00004800 L_out=5.672 Acc=0.69 --- 5193.06 ms/batch
+Step 00004850 L_out=6.945 Acc=0.80 --- 3853.91 ms/batch
+Step 00004900 L_out=4.742 Acc=0.78 --- 6510.94 ms/batch
+Step 00004950 L_out=5.966 Acc=0.81 --- 6020.93 ms/batch
+Step 00005000 L_out=7.426 Acc=0.71 --- 3264.18 ms/batch
+****EPOCH 8****
+Step 00005050 L_out=6.771 Acc=0.70 --- 5402.97 ms/batch
+Step 00005100 L_out=6.820 Acc=0.69 --- 3430.32 ms/batch
+Step 00005150 L_out=8.088 Acc=0.74 --- 4567.87 ms/batch
+Step 00005200 L_out=5.679 Acc=0.71 --- 2698.30 ms/batch
+Step 00005250 L_out=5.554 Acc=0.71 --- 6573.76 ms/batch
+Step 00005300 L_out=3.748 Acc=0.86 --- 3108.28 ms/batch
+Step 00005350 L_out=4.526 Acc=0.70 --- 2518.68 ms/batch
+Step 00005400 L_out=5.371 Acc=0.73 --- 3619.03 ms/batch
+Step 00005450 L_out=7.561 Acc=0.72 --- 3756.20 ms/batch
+Step 00005500 L_out=4.869 Acc=0.71 --- 4421.46 ms/batch
+eval accuracy: 0.7599521891276042
+mean IOU:0.4519943403360837
+Mean IoU = 45.2%
+--------------------------------------------------------------------------------------
+45.20 | 87.26 94.03 63.77  0.00 19.45 32.89 28.41 52.39 67.06 23.65 55.40 28.35 34.94 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 45.199
+****EPOCH 9****
+Step 00005550 L_out=5.510 Acc=0.73 --- 7895.68 ms/batch
+Step 00005600 L_out=6.867 Acc=0.73 --- 6383.52 ms/batch
+Step 00005650 L_out=3.792 Acc=0.83 --- 8079.12 ms/batch
+Step 00005700 L_out=6.365 Acc=0.80 --- 8517.41 ms/batch
+Step 00005750 L_out=6.747 Acc=0.76 --- 3913.39 ms/batch
+Step 00005800 L_out=8.446 Acc=0.75 --- 5689.94 ms/batch
+Step 00005850 L_out=6.482 Acc=0.67 --- 5922.60 ms/batch
+Step 00005900 L_out=4.369 Acc=0.79 --- 3493.59 ms/batch
+Step 00005950 L_out=5.261 Acc=0.76 --- 3514.77 ms/batch
+Step 00006000 L_out=4.635 Acc=0.72 --- 2490.36 ms/batch
+****EPOCH 10****
+Step 00006050 L_out=7.336 Acc=0.74 --- 2364.63 ms/batch
+Step 00006100 L_out=5.838 Acc=0.81 --- 4303.96 ms/batch
+Step 00006150 L_out=5.000 Acc=0.78 --- 2970.69 ms/batch
+Step 00006200 L_out=5.205 Acc=0.68 --- 2590.39 ms/batch
+Step 00006250 L_out=5.001 Acc=0.70 --- 3327.36 ms/batch
+Step 00006300 L_out=3.650 Acc=0.85 --- 2648.72 ms/batch
+Step 00006350 L_out=14.505 Acc=0.65 --- 2910.33 ms/batch
+****EPOCH 10****
+Session Started
+Step 00006050 L_out=6.380 Acc=0.74 --- 2965.32 ms/batch
+Step 00006100 L_out=7.596 Acc=0.60 --- 3494.65 ms/batch
+Step 00006150 L_out=6.365 Acc=0.73 --- 2994.92 ms/batch
+Step 00006200 L_out=9.745 Acc=0.74 --- 5313.86 ms/batch
+Step 00006250 L_out=8.585 Acc=0.59 --- 2147.20 ms/batch
+Step 00006300 L_out=3.686 Acc=0.87 --- 2639.03 ms/batch
+Step 00006350 L_out=6.182 Acc=0.76 --- 2922.37 ms/batch
+Step 00006400 L_out=9.067 Acc=0.60 --- 2174.75 ms/batch
+Step 00006450 L_out=8.443 Acc=0.70 --- 4126.45 ms/batch
+Step 00006500 L_out=1.348 Acc=0.89 --- 2444.83 ms/batch
+eval accuracy: 0.78723779296875
+mean IOU:0.475359774098602
+Mean IoU = 47.5%
+--------------------------------------------------------------------------------------
+47.54 | 87.72 92.02 68.62  0.00 17.55 32.60 21.31 62.07 66.42 43.92 58.98 29.34 37.41 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 47.536
+****EPOCH 11****
+Step 00006550 L_out=9.513 Acc=0.75 --- 5278.38 ms/batch
+Step 00006600 L_out=6.917 Acc=0.75 --- 3535.20 ms/batch
+Step 00006650 L_out=3.869 Acc=0.85 --- 2428.21 ms/batch
+Step 00006700 L_out=7.756 Acc=0.73 --- 3251.15 ms/batch
+Step 00006750 L_out=6.235 Acc=0.75 --- 5919.31 ms/batch
+Step 00006800 L_out=3.242 Acc=0.76 --- 4611.85 ms/batch
+Step 00006850 L_out=4.131 Acc=0.76 --- 3030.04 ms/batch
+Step 00006900 L_out=3.926 Acc=0.75 --- 4682.75 ms/batch
+Step 00006950 L_out=11.449 Acc=0.72 --- 3727.88 ms/batch
+Step 00007000 L_out=5.646 Acc=0.70 --- 3054.20 ms/batch
+****EPOCH 12****
+Step 00007050 L_out=3.323 Acc=0.84 --- 2892.72 ms/batch
+Step 00007100 L_out=5.384 Acc=0.72 --- 3296.62 ms/batch
+Step 00007150 L_out=4.726 Acc=0.77 --- 1926.75 ms/batch
+Step 00007200 L_out=8.810 Acc=0.67 --- 4578.63 ms/batch
+Step 00007250 L_out=5.280 Acc=0.75 --- 4474.23 ms/batch
+Step 00007300 L_out=3.426 Acc=0.82 --- 2371.65 ms/batch
+Step 00007350 L_out=7.839 Acc=0.75 --- 3277.49 ms/batch
+Step 00007400 L_out=3.533 Acc=0.81 --- 2713.38 ms/batch
+Step 00007450 L_out=3.903 Acc=0.79 --- 3240.36 ms/batch
+Step 00007500 L_out=4.857 Acc=0.85 --- 2347.89 ms/batch
+eval accuracy: 0.7841726481119792
+mean IOU:0.48477207346739554
+Mean IoU = 48.5%
+--------------------------------------------------------------------------------------
+48.48 | 87.33 93.34 68.05  0.00 19.69 37.89 21.97 60.17 72.99 46.00 59.46 21.73 41.58 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 48.477
+****EPOCH 13****
+Step 00007550 L_out=4.092 Acc=0.78 --- 5374.99 ms/batch
+Step 00007600 L_out=3.733 Acc=0.81 --- 6506.59 ms/batch
+Step 00007650 L_out=6.243 Acc=0.75 --- 5323.61 ms/batch
+Step 00007700 L_out=3.544 Acc=0.76 --- 4902.74 ms/batch
+Step 00007750 L_out=5.570 Acc=0.77 --- 5705.26 ms/batch
+Step 00007800 L_out=6.496 Acc=0.82 --- 9136.04 ms/batch
+Step 00007850 L_out=4.045 Acc=0.85 --- 5526.32 ms/batch
+Step 00007900 L_out=5.360 Acc=0.82 --- 3494.02 ms/batch
+Step 00007950 L_out=6.066 Acc=0.80 --- 5588.82 ms/batch
+Step 00008000 L_out=3.711 Acc=0.86 --- 4618.49 ms/batch
+****EPOCH 14****
+Step 00008050 L_out=6.284 Acc=0.79 --- 4596.14 ms/batch
+Step 00008100 L_out=5.570 Acc=0.73 --- 4720.77 ms/batch
+Step 00008150 L_out=3.454 Acc=0.83 --- 4188.86 ms/batch
+Step 00008200 L_out=3.147 Acc=0.81 --- 3723.35 ms/batch
+Step 00008250 L_out=3.914 Acc=0.76 --- 3906.43 ms/batch
+Step 00008300 L_out=4.043 Acc=0.80 --- 3895.24 ms/batch
+Step 00008350 L_out=5.886 Acc=0.75 --- 4459.99 ms/batch
+Step 00008400 L_out=2.130 Acc=0.88 --- 3776.63 ms/batch
+Step 00008450 L_out=4.970 Acc=0.77 --- 4713.97 ms/batch
+Step 00008500 L_out=4.916 Acc=0.82 --- 3542.30 ms/batch
+eval accuracy: 0.7956882731119792
+mean IOU:0.5082852647152442
+Mean IoU = 50.8%
+--------------------------------------------------------------------------------------
+50.83 | 87.81 92.21 69.55  0.00 19.70 42.99 34.52 62.74 74.09 47.56 60.03 29.07 40.50 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 50.829
+****EPOCH 15****
+Step 00008550 L_out=4.707 Acc=0.82 --- 5342.37 ms/batch
+Step 00008600 L_out=2.131 Acc=0.87 --- 4205.16 ms/batch
+Step 00008650 L_out=4.338 Acc=0.81 --- 3567.85 ms/batch
+Step 00008700 L_out=4.948 Acc=0.90 --- 3964.19 ms/batch
+Step 00008750 L_out=4.350 Acc=0.88 --- 2416.13 ms/batch
+Step 00008800 L_out=2.791 Acc=0.88 --- 2475.21 ms/batch
+Step 00008850 L_out=6.748 Acc=0.79 --- 4646.90 ms/batch
+Step 00008900 L_out=5.166 Acc=0.76 --- 3872.28 ms/batch
+Step 00008950 L_out=4.194 Acc=0.83 --- 5890.22 ms/batch
+Step 00009000 L_out=4.696 Acc=0.84 --- 1340.97 ms/batch
+****EPOCH 16****
+Step 00009050 L_out=3.721 Acc=0.82 --- 3663.92 ms/batch
+Step 00009100 L_out=2.808 Acc=0.88 --- 6196.84 ms/batch
+Step 00009150 L_out=5.047 Acc=0.78 --- 3338.97 ms/batch
+Step 00009200 L_out=3.110 Acc=0.87 --- 3994.02 ms/batch
+Step 00009250 L_out=5.473 Acc=0.76 --- 2812.43 ms/batch
+Step 00009300 L_out=3.549 Acc=0.84 --- 2597.76 ms/batch
+Step 00009350 L_out=4.169 Acc=0.73 --- 3890.02 ms/batch
+Step 00009400 L_out=3.022 Acc=0.87 --- 1979.78 ms/batch
+Step 00009450 L_out=1.877 Acc=0.89 --- 3696.76 ms/batch
+Step 00009500 L_out=3.565 Acc=0.87 --- 5092.02 ms/batch
+eval accuracy: 0.7945845540364583
+mean IOU:0.5007831784857838
+Mean IoU = 50.1%
+--------------------------------------------------------------------------------------
+50.08 | 86.29 93.76 70.11  0.00 24.81 41.29 32.88 62.73 65.74 36.10 60.86 35.78 40.66 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 50.829
+****EPOCH 17****
+Step 00009550 L_out=9.419 Acc=0.66 --- 3296.78 ms/batch
+Step 00009600 L_out=4.949 Acc=0.73 --- 2598.97 ms/batch
+Step 00009650 L_out=4.178 Acc=0.79 --- 4025.69 ms/batch
+Step 00009700 L_out=4.248 Acc=0.79 --- 4446.83 ms/batch
+Step 00009750 L_out=2.903 Acc=0.83 --- 2175.01 ms/batch
+Step 00009800 L_out=4.145 Acc=0.77 --- 5266.50 ms/batch
+Step 00009850 L_out=1.714 Acc=0.92 --- 3404.80 ms/batch
+Step 00009900 L_out=7.489 Acc=0.74 --- 3486.31 ms/batch
+Step 00009950 L_out=5.028 Acc=0.77 --- 4771.87 ms/batch
+Step 00010000 L_out=2.023 Acc=0.89 --- 2119.04 ms/batch
+****EPOCH 18****
+Step 00010050 L_out=5.111 Acc=0.74 --- 2949.30 ms/batch
+Step 00010100 L_out=3.508 Acc=0.80 --- 3326.97 ms/batch
+Step 00010150 L_out=4.422 Acc=0.78 --- 4605.32 ms/batch
+Step 00010200 L_out=4.286 Acc=0.88 --- 5397.40 ms/batch
+Step 00010250 L_out=3.186 Acc=0.87 --- 4580.49 ms/batch
+Step 00010300 L_out=2.854 Acc=0.82 --- 3796.58 ms/batch
+****EPOCH 18****
+Session Started
+Step 00010050 L_out=3.623 Acc=0.79 --- 1407.02 ms/batch
+Step 00010100 L_out=6.314 Acc=0.87 --- 1581.16 ms/batch
+Step 00010150 L_out=2.861 Acc=0.85 --- 1393.65 ms/batch
+Step 00010200 L_out=4.681 Acc=0.80 --- 1411.45 ms/batch
+Step 00010250 L_out=4.594 Acc=0.76 --- 1331.05 ms/batch
+Step 00010300 L_out=6.391 Acc=0.74 --- 1583.92 ms/batch
+Step 00010350 L_out=7.926 Acc=0.75 --- 1489.62 ms/batch
+Step 00010400 L_out=4.014 Acc=0.83 --- 1395.40 ms/batch
+Step 00010450 L_out=10.150 Acc=0.74 --- 1348.52 ms/batch
+Step 00010500 L_out=3.894 Acc=0.80 ---  854.69 ms/batch
+eval accuracy: 0.7812792561848958
+mean IOU:0.48812345661914447
+Mean IoU = 48.8%
+--------------------------------------------------------------------------------------
+48.81 | 87.36 93.40 64.76  0.00 21.43 39.36 38.77 65.50 72.25 28.73 60.90 22.05 40.06 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 50.829
+****EPOCH 19****
+Step 00010550 L_out=2.575 Acc=0.86 --- 1367.39 ms/batch
+Step 00010600 L_out=2.612 Acc=0.78 --- 1605.47 ms/batch
+Step 00010650 L_out=4.094 Acc=0.77 --- 1369.87 ms/batch
+Step 00010700 L_out=3.307 Acc=0.82 --- 1379.83 ms/batch
+Step 00010750 L_out=5.459 Acc=0.80 --- 1502.24 ms/batch
+Step 00010800 L_out=3.377 Acc=0.82 --- 1385.65 ms/batch
+Step 00010850 L_out=2.861 Acc=0.83 --- 1402.02 ms/batch
+Step 00010900 L_out=5.318 Acc=0.83 --- 1371.48 ms/batch
+Step 00010950 L_out=4.746 Acc=0.75 --- 1449.21 ms/batch
+Step 00011000 L_out=4.919 Acc=0.82 ---  985.38 ms/batch
+****EPOCH 20****
+Step 00011050 L_out=4.581 Acc=0.77 --- 1389.75 ms/batch
+Step 00011100 L_out=5.024 Acc=0.68 --- 1613.62 ms/batch
+Step 00011150 L_out=3.129 Acc=0.82 --- 1477.12 ms/batch
+Step 00011200 L_out=3.975 Acc=0.75 --- 1461.94 ms/batch
+Step 00011250 L_out=4.989 Acc=0.76 --- 1505.53 ms/batch
+Step 00011300 L_out=7.242 Acc=0.71 --- 1414.37 ms/batch
+Step 00011350 L_out=5.486 Acc=0.71 --- 1498.16 ms/batch
+Step 00011400 L_out=5.195 Acc=0.73 --- 1720.41 ms/batch
+Step 00011450 L_out=4.488 Acc=0.75 --- 1380.15 ms/batch
+Step 00011500 L_out=4.769 Acc=0.80 ---  885.66 ms/batch
+eval accuracy: 0.7959172770182291
+mean IOU:0.5066163489506853
+Mean IoU = 50.7%
+--------------------------------------------------------------------------------------
+50.66 | 85.57 92.34 70.00  0.00 23.53 44.10 38.00 62.38 72.38 39.96 60.89 30.37 39.08 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 50.829
+****EPOCH 21****
+Step 00011550 L_out=2.554 Acc=0.81 --- 1493.53 ms/batch
+Step 00011600 L_out=3.792 Acc=0.87 --- 1643.43 ms/batch
+Step 00011650 L_out=5.579 Acc=0.77 --- 1353.99 ms/batch
+Step 00011700 L_out=4.002 Acc=0.83 --- 1419.87 ms/batch
+Step 00011750 L_out=6.862 Acc=0.81 --- 1555.80 ms/batch
+Step 00011800 L_out=4.290 Acc=0.81 --- 1699.81 ms/batch
+Step 00011850 L_out=4.453 Acc=0.78 --- 1451.41 ms/batch
+Step 00011900 L_out=3.712 Acc=0.84 --- 1416.63 ms/batch
+Step 00011950 L_out=2.072 Acc=0.89 --- 1465.28 ms/batch
+Step 00012000 L_out=4.445 Acc=0.82 ---  962.98 ms/batch
+****EPOCH 22****
+Step 00012050 L_out=3.271 Acc=0.81 --- 1506.42 ms/batch
+Step 00012100 L_out=5.382 Acc=0.71 --- 1444.26 ms/batch
+Step 00012150 L_out=2.603 Acc=0.85 --- 1503.05 ms/batch
+Step 00012200 L_out=5.041 Acc=0.75 --- 1406.86 ms/batch
+Step 00012250 L_out=3.326 Acc=0.84 --- 1482.70 ms/batch
+Step 00012300 L_out=2.894 Acc=0.86 --- 1511.83 ms/batch
+Step 00012350 L_out=3.292 Acc=0.77 --- 1416.84 ms/batch
+Step 00012400 L_out=4.212 Acc=0.79 --- 1393.07 ms/batch
+Step 00012450 L_out=4.638 Acc=0.83 --- 1490.26 ms/batch
+Step 00012500 L_out=3.060 Acc=0.76 ---  904.57 ms/batch
+eval accuracy: 0.7990680338541667
+mean IOU:0.5117213453550886
+Mean IoU = 51.2%
+--------------------------------------------------------------------------------------
+51.17 | 87.70 93.05 68.85  0.00 22.16 43.66 38.47 63.83 71.36 41.70 61.11 29.92 43.41 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 51.172
+****EPOCH 23****
+Step 00012550 L_out=3.661 Acc=0.82 --- 1401.00 ms/batch
+Step 00012600 L_out=2.993 Acc=0.83 --- 1468.17 ms/batch
+Step 00012650 L_out=2.282 Acc=0.87 --- 1458.75 ms/batch
+Step 00012700 L_out=2.826 Acc=0.82 --- 1483.40 ms/batch
+Step 00012750 L_out=3.847 Acc=0.84 --- 1401.46 ms/batch
+Step 00012800 L_out=2.828 Acc=0.89 --- 1401.87 ms/batch
+Step 00012850 L_out=4.548 Acc=0.83 --- 1460.30 ms/batch
+Step 00012900 L_out=4.765 Acc=0.81 --- 1492.72 ms/batch
+Step 00012950 L_out=2.905 Acc=0.82 --- 1500.34 ms/batch
+Step 00013000 L_out=2.047 Acc=0.87 ---  882.72 ms/batch
+****EPOCH 24****
+Step 00013050 L_out=3.234 Acc=0.85 --- 1386.54 ms/batch
+Step 00013100 L_out=3.123 Acc=0.84 --- 1345.95 ms/batch
+Step 00013150 L_out=6.345 Acc=0.77 --- 1600.47 ms/batch
+Step 00013200 L_out=5.375 Acc=0.77 --- 1470.72 ms/batch
+Step 00013250 L_out=3.375 Acc=0.80 --- 1606.98 ms/batch
+Step 00013300 L_out=2.729 Acc=0.91 --- 1473.62 ms/batch
+Step 00013350 L_out=2.289 Acc=0.86 --- 1422.24 ms/batch
+Step 00013400 L_out=6.410 Acc=0.79 --- 1485.15 ms/batch
+Step 00013450 L_out=2.837 Acc=0.85 --- 1414.46 ms/batch
+Step 00013500 L_out=1.478 Acc=0.94 --- 1006.61 ms/batch
+eval accuracy: 0.7829361979166667
+mean IOU:0.5071605899420268
+Mean IoU = 50.7%
+--------------------------------------------------------------------------------------
+50.72 | 87.07 93.65 62.83  0.00 24.75 43.26 40.77 65.77 74.47 31.22 60.54 33.89 41.10 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 51.172
+****EPOCH 25****
+Step 00013550 L_out=1.693 Acc=0.90 --- 1478.98 ms/batch
+Step 00013600 L_out=3.111 Acc=0.85 --- 1398.39 ms/batch
+Step 00013650 L_out=3.068 Acc=0.82 --- 1458.98 ms/batch
+Step 00013700 L_out=2.584 Acc=0.88 --- 1516.44 ms/batch
+Step 00013750 L_out=3.418 Acc=0.77 --- 1426.94 ms/batch
+Step 00013800 L_out=2.171 Acc=0.89 --- 1396.23 ms/batch
+Step 00013850 L_out=2.658 Acc=0.88 --- 1358.06 ms/batch
+Step 00013900 L_out=4.144 Acc=0.77 --- 1362.09 ms/batch
+Step 00013950 L_out=2.126 Acc=0.88 --- 1400.97 ms/batch
+Step 00014000 L_out=3.070 Acc=0.81 ---  891.81 ms/batch
+****EPOCH 26****
+Step 00014050 L_out=4.128 Acc=0.82 --- 1349.82 ms/batch
+Step 00014100 L_out=3.294 Acc=0.88 --- 1406.47 ms/batch
+Step 00014150 L_out=2.579 Acc=0.86 --- 1401.80 ms/batch
+Step 00014200 L_out=4.504 Acc=0.79 --- 1377.17 ms/batch
+Step 00014250 L_out=3.321 Acc=0.79 --- 1536.44 ms/batch
+Step 00014300 L_out=2.108 Acc=0.90 --- 1553.86 ms/batch
+Step 00014350 L_out=4.761 Acc=0.84 --- 1705.63 ms/batch
+Step 00014400 L_out=3.663 Acc=0.82 --- 1492.95 ms/batch
+Step 00014450 L_out=3.908 Acc=0.79 --- 1521.30 ms/batch
+Step 00014500 L_out=3.016 Acc=0.87 ---  888.06 ms/batch
+eval accuracy: 0.8098124186197917
+mean IOU:0.5260653461066902
+Mean IoU = 52.6%
+--------------------------------------------------------------------------------------
+52.61 | 88.10 92.86 70.93  0.00 20.97 42.65 41.95 67.20 75.53 38.77 62.46 38.78 43.69 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 52.607
+****EPOCH 27****
+Step 00014550 L_out=4.231 Acc=0.84 --- 1422.88 ms/batch
+Step 00014600 L_out=2.244 Acc=0.85 --- 1409.49 ms/batch
+Step 00014650 L_out=2.468 Acc=0.85 --- 1497.79 ms/batch
+Step 00014700 L_out=3.494 Acc=0.82 --- 1744.51 ms/batch
+Step 00014750 L_out=1.873 Acc=0.92 --- 1414.59 ms/batch
+Step 00014800 L_out=1.875 Acc=0.92 --- 1322.81 ms/batch
+Step 00014850 L_out=4.205 Acc=0.77 --- 1501.28 ms/batch
+Step 00014900 L_out=2.750 Acc=0.88 --- 1496.33 ms/batch
+Step 00014950 L_out=3.618 Acc=0.91 --- 1477.40 ms/batch
+Step 00015000 L_out=4.434 Acc=0.83 ---  906.00 ms/batch
+****EPOCH 28****
+Step 00015050 L_out=3.341 Acc=0.82 --- 1553.43 ms/batch
+Step 00015100 L_out=2.930 Acc=0.80 --- 1444.86 ms/batch
+Step 00015150 L_out=1.981 Acc=0.85 --- 1540.00 ms/batch
+Step 00015200 L_out=3.125 Acc=0.85 --- 1356.06 ms/batch
+Step 00015250 L_out=4.449 Acc=0.84 --- 1502.74 ms/batch
+Step 00015300 L_out=3.162 Acc=0.87 --- 1491.56 ms/batch
+Step 00015350 L_out=2.067 Acc=0.85 --- 1497.92 ms/batch
+Step 00015400 L_out=3.379 Acc=0.81 --- 1546.33 ms/batch
+Step 00015450 L_out=4.496 Acc=0.81 --- 1398.83 ms/batch
+Step 00015500 L_out=3.729 Acc=0.84 ---  994.38 ms/batch
+eval accuracy: 0.8129176839192709
+mean IOU:0.5184808068490434
+Mean IoU = 51.8%
+--------------------------------------------------------------------------------------
+51.85 | 88.32 94.07 72.12  0.00 21.56 35.57 41.18 66.41 75.52 36.74 62.93 34.79 44.81 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 52.607
+****EPOCH 29****
+Step 00015550 L_out=2.474 Acc=0.82 --- 1427.93 ms/batch
+Step 00015600 L_out=2.241 Acc=0.90 --- 1334.78 ms/batch
+Step 00015650 L_out=2.849 Acc=0.87 --- 1686.73 ms/batch
+Step 00015700 L_out=2.837 Acc=0.87 --- 1493.73 ms/batch
+Step 00015750 L_out=2.112 Acc=0.85 --- 1848.40 ms/batch
+Step 00015800 L_out=1.119 Acc=0.94 --- 1453.76 ms/batch
+Step 00015850 L_out=2.990 Acc=0.85 --- 1501.38 ms/batch
+Step 00015900 L_out=2.911 Acc=0.85 --- 1369.38 ms/batch
+Step 00015950 L_out=2.063 Acc=0.88 --- 1507.67 ms/batch
+Step 00016000 L_out=3.545 Acc=0.83 ---  977.44 ms/batch
+****EPOCH 30****
+Step 00016050 L_out=3.282 Acc=0.88 --- 1595.62 ms/batch
+Step 00016100 L_out=2.574 Acc=0.82 --- 1494.44 ms/batch
+Step 00016150 L_out=1.992 Acc=0.86 --- 1356.30 ms/batch
+Step 00016200 L_out=2.743 Acc=0.89 --- 1551.41 ms/batch
+Step 00016250 L_out=4.103 Acc=0.81 --- 1570.24 ms/batch
+Step 00016300 L_out=2.706 Acc=0.89 --- 1503.66 ms/batch
+Step 00016350 L_out=2.378 Acc=0.85 --- 1589.38 ms/batch
+Step 00016400 L_out=2.878 Acc=0.85 --- 1557.82 ms/batch
+Step 00016450 L_out=6.959 Acc=0.84 --- 1496.43 ms/batch
+Step 00016500 L_out=2.574 Acc=0.88 --- 1022.93 ms/batch
+eval accuracy: 0.77344384765625
+mean IOU:0.5021071809663307
+Mean IoU = 50.2%
+--------------------------------------------------------------------------------------
+50.21 | 86.42 92.98 60.12  0.04 22.07 34.78 44.35 66.04 74.46 40.35 61.38 25.38 44.38 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 52.607
+****EPOCH 31****
+Step 00016550 L_out=2.793 Acc=0.82 --- 1618.22 ms/batch
+Step 00016600 L_out=2.194 Acc=0.88 --- 1469.17 ms/batch
+Step 00016650 L_out=2.644 Acc=0.83 --- 1409.50 ms/batch
+Step 00016700 L_out=2.149 Acc=0.88 --- 1385.10 ms/batch
+Step 00016750 L_out=1.431 Acc=0.93 --- 1584.06 ms/batch
+Step 00016800 L_out=1.806 Acc=0.88 --- 1748.95 ms/batch
+Step 00016850 L_out=2.777 Acc=0.89 --- 1395.57 ms/batch
+Step 00016900 L_out=2.100 Acc=0.88 --- 1421.64 ms/batch
+Step 00016950 L_out=3.255 Acc=0.83 --- 1535.90 ms/batch
+Step 00017000 L_out=2.345 Acc=0.83 ---  936.87 ms/batch
+****EPOCH 32****
+Step 00017050 L_out=2.870 Acc=0.84 --- 1499.27 ms/batch
+Step 00017100 L_out=1.536 Acc=0.92 --- 1339.34 ms/batch
+Step 00017150 L_out=3.516 Acc=0.84 --- 1529.30 ms/batch
+Step 00017200 L_out=4.676 Acc=0.86 --- 1601.29 ms/batch
+Step 00017250 L_out=2.206 Acc=0.89 --- 1473.86 ms/batch
+Step 00017300 L_out=2.120 Acc=0.86 --- 1590.95 ms/batch
+Step 00017350 L_out=4.778 Acc=0.86 --- 1459.14 ms/batch
+Step 00017400 L_out=2.183 Acc=0.91 --- 1590.31 ms/batch
+Step 00017450 L_out=2.067 Acc=0.93 --- 1321.33 ms/batch
+Step 00017500 L_out=3.068 Acc=0.88 --- 1100.71 ms/batch
+eval accuracy: 0.8115192464192709
+mean IOU:0.5213819104491351
+Mean IoU = 52.1%
+--------------------------------------------------------------------------------------
+52.14 | 88.60 93.50 71.23  0.00 24.67 40.87 46.51 65.59 75.60 33.65 63.18 30.90 43.50 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 52.607
+****EPOCH 33****
+Step 00017550 L_out=0.994 Acc=0.93 --- 1391.59 ms/batch
+Step 00017600 L_out=2.637 Acc=0.88 --- 1508.45 ms/batch
+Step 00017650 L_out=2.855 Acc=0.86 --- 1417.38 ms/batch
+Step 00017700 L_out=2.648 Acc=0.88 --- 1408.23 ms/batch
+Step 00017750 L_out=4.252 Acc=0.83 --- 1467.21 ms/batch
+Step 00017800 L_out=2.395 Acc=0.89 --- 1347.73 ms/batch
+Step 00017850 L_out=2.365 Acc=0.87 --- 1302.40 ms/batch
+Step 00017900 L_out=3.008 Acc=0.79 --- 1482.93 ms/batch
+Step 00017950 L_out=2.272 Acc=0.88 --- 1586.67 ms/batch
+Step 00018000 L_out=1.974 Acc=0.88 ---  923.16 ms/batch
+****EPOCH 34****
+Step 00018050 L_out=3.266 Acc=0.88 --- 1506.68 ms/batch
+Step 00018100 L_out=1.997 Acc=0.85 --- 1584.23 ms/batch
+Step 00018150 L_out=1.808 Acc=0.87 --- 1481.91 ms/batch
+Step 00018200 L_out=3.013 Acc=0.87 --- 1449.99 ms/batch
+Step 00018250 L_out=2.098 Acc=0.91 --- 2050.21 ms/batch
+Step 00018300 L_out=1.743 Acc=0.87 --- 1504.84 ms/batch
+Step 00018350 L_out=3.489 Acc=0.84 --- 1423.40 ms/batch
+Step 00018400 L_out=3.458 Acc=0.84 --- 1505.64 ms/batch
+Step 00018450 L_out=2.743 Acc=0.89 --- 1490.73 ms/batch
+Step 00018500 L_out=1.748 Acc=0.87 ---  898.59 ms/batch
+eval accuracy: 0.8039435221354166
+mean IOU:0.530349320034893
+Mean IoU = 53.0%
+--------------------------------------------------------------------------------------
+53.03 | 88.97 94.28 69.47  0.00 23.04 40.73 46.51 67.37 75.45 45.28 59.71 34.05 44.58 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 53.035
+****EPOCH 35****
+Step 00018550 L_out=1.567 Acc=0.92 --- 1529.50 ms/batch
+Step 00018600 L_out=1.110 Acc=0.94 --- 1466.72 ms/batch
+Step 00018650 L_out=3.235 Acc=0.87 --- 1453.61 ms/batch
+Step 00018700 L_out=2.345 Acc=0.86 --- 1414.62 ms/batch
+Step 00018750 L_out=4.694 Acc=0.91 --- 1418.01 ms/batch
+Step 00018800 L_out=3.480 Acc=0.85 --- 1680.64 ms/batch
+Step 00018850 L_out=1.901 Acc=0.89 --- 1395.72 ms/batch
+Step 00018900 L_out=2.612 Acc=0.90 --- 2804.60 ms/batch
+Step 00018950 L_out=2.867 Acc=0.84 --- 1563.43 ms/batch
+Step 00019000 L_out=2.422 Acc=0.80 ---  900.03 ms/batch
+****EPOCH 36****
+Step 00019050 L_out=2.995 Acc=0.90 --- 1292.87 ms/batch
+Step 00019100 L_out=2.524 Acc=0.91 --- 1325.87 ms/batch
+Step 00019150 L_out=1.881 Acc=0.90 --- 1426.95 ms/batch
+Step 00019200 L_out=1.675 Acc=0.88 --- 1499.72 ms/batch
+Step 00019250 L_out=1.337 Acc=0.89 --- 1414.99 ms/batch
+Step 00019300 L_out=1.701 Acc=0.90 --- 1454.07 ms/batch
+Step 00019350 L_out=1.148 Acc=0.95 --- 1451.02 ms/batch
+Step 00019400 L_out=2.813 Acc=0.86 --- 1469.57 ms/batch
+Step 00019450 L_out=1.630 Acc=0.87 --- 1503.91 ms/batch
+Step 00019500 L_out=2.464 Acc=0.89 --- 1026.27 ms/batch
+eval accuracy: 0.7958980305989584
+mean IOU:0.5186475045774664
+Mean IoU = 51.9%
+--------------------------------------------------------------------------------------
+51.86 | 86.20 93.00 68.45  0.00 22.17 38.89 42.82 68.42 74.54 41.55 60.46 34.41 43.33 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 53.035
+****EPOCH 37****
+Step 00019550 L_out=1.636 Acc=0.90 --- 1486.01 ms/batch
+Step 00019600 L_out=2.063 Acc=0.90 --- 1503.66 ms/batch
+Step 00019650 L_out=3.159 Acc=0.87 --- 1393.94 ms/batch
+Step 00019700 L_out=2.268 Acc=0.85 --- 1495.96 ms/batch
+Step 00019750 L_out=1.206 Acc=0.95 --- 1602.31 ms/batch
+Step 00019800 L_out=1.472 Acc=0.90 --- 1449.73 ms/batch
+Step 00019850 L_out=1.916 Acc=0.88 --- 1475.76 ms/batch
+Step 00019900 L_out=2.459 Acc=0.85 --- 1490.22 ms/batch
+Step 00019950 L_out=1.159 Acc=0.91 --- 1384.73 ms/batch
+Step 00020000 L_out=2.356 Acc=0.87 ---  908.49 ms/batch
+****EPOCH 38****
+Step 00020050 L_out=2.823 Acc=0.86 --- 1557.89 ms/batch
+Step 00020100 L_out=1.269 Acc=0.92 --- 1593.89 ms/batch
+Step 00020150 L_out=2.092 Acc=0.89 --- 1478.48 ms/batch
+Step 00020200 L_out=1.844 Acc=0.89 --- 1479.37 ms/batch
+Step 00020250 L_out=3.923 Acc=0.83 --- 1807.42 ms/batch
+Step 00020300 L_out=3.667 Acc=0.96 --- 1684.65 ms/batch
+Step 00020350 L_out=0.980 Acc=0.94 --- 1509.82 ms/batch
+Step 00020400 L_out=1.766 Acc=0.89 --- 1316.25 ms/batch
+Step 00020450 L_out=1.863 Acc=0.93 --- 1883.10 ms/batch
+Step 00020500 L_out=3.022 Acc=0.85 ---  977.63 ms/batch
+eval accuracy: 0.8195904134114583
+mean IOU:0.5292907248184711
+Mean IoU = 52.9%
+--------------------------------------------------------------------------------------
+52.93 | 87.92 93.71 73.55  0.00 15.22 37.88 45.24 66.41 73.77 42.58 62.79 43.27 45.73 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 53.035
+****EPOCH 39****
+Step 00020550 L_out=2.510 Acc=0.87 --- 1404.06 ms/batch
+Step 00020600 L_out=2.945 Acc=0.85 --- 1248.28 ms/batch
+Step 00020650 L_out=2.598 Acc=0.82 --- 1492.82 ms/batch
+Step 00020700 L_out=1.452 Acc=0.91 --- 1447.03 ms/batch
+Step 00020750 L_out=1.849 Acc=0.87 --- 1511.58 ms/batch
+****EPOCH 39****
+Session Started
+Step 00020050 L_out=3.274 Acc=0.84 --- 1587.65 ms/batch
+Step 00020100 L_out=4.396 Acc=0.83 --- 1339.99 ms/batch
+Step 00020150 L_out=6.551 Acc=0.71 --- 1482.16 ms/batch
+Step 00020200 L_out=4.078 Acc=0.85 --- 1427.20 ms/batch
+Step 00020250 L_out=2.563 Acc=0.81 --- 1507.54 ms/batch
+Step 00020300 L_out=3.952 Acc=0.84 --- 1405.81 ms/batch
+Step 00020350 L_out=3.328 Acc=0.84 --- 1585.29 ms/batch
+Step 00020400 L_out=2.730 Acc=0.82 --- 1455.92 ms/batch
+Step 00020450 L_out=0.990 Acc=0.91 --- 1345.43 ms/batch
+Step 00020500 L_out=7.892 Acc=0.83 ---  932.31 ms/batch
+****EPOCH 40****
+Step 00020550 L_out=3.283 Acc=0.79 --- 1506.13 ms/batch
+Step 00020600 L_out=2.056 Acc=0.90 --- 1474.67 ms/batch
+Step 00020650 L_out=5.816 Acc=0.79 --- 1345.85 ms/batch
+Step 00020700 L_out=2.582 Acc=0.85 --- 1438.00 ms/batch
+Step 00020750 L_out=2.346 Acc=0.87 --- 1405.48 ms/batch
+Step 00020800 L_out=1.928 Acc=0.87 --- 1546.27 ms/batch
+Step 00020850 L_out=4.103 Acc=0.83 --- 1411.77 ms/batch
+Step 00020900 L_out=5.278 Acc=0.80 --- 1295.21 ms/batch
+Step 00020950 L_out=3.552 Acc=0.82 --- 1422.73 ms/batch
+Step 00021000 L_out=1.558 Acc=0.91 ---  891.12 ms/batch
+eval accuracy: 0.7966025390625
+mean IOU:0.5237101682904457
+Mean IoU = 52.4%
+--------------------------------------------------------------------------------------
+52.37 | 86.51 93.44 67.17  0.00 20.38 43.84 43.69 67.78 74.61 49.12 62.09 25.92 46.27 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 53.035
+****EPOCH 41****
+Step 00021050 L_out=3.965 Acc=0.82 --- 1496.99 ms/batch
+Step 00021100 L_out=2.823 Acc=0.84 --- 1392.55 ms/batch
+Step 00021150 L_out=3.403 Acc=0.88 --- 1546.48 ms/batch
+Step 00021200 L_out=2.688 Acc=0.89 --- 1320.55 ms/batch
+Step 00021250 L_out=7.167 Acc=0.86 --- 1511.58 ms/batch
+Step 00021300 L_out=3.500 Acc=0.87 --- 1381.10 ms/batch
+Step 00021350 L_out=2.236 Acc=0.88 --- 1397.33 ms/batch
+Step 00021400 L_out=1.723 Acc=0.92 --- 1330.89 ms/batch
+Step 00021450 L_out=2.245 Acc=0.85 --- 1443.54 ms/batch
+Step 00021500 L_out=2.599 Acc=0.82 ---  965.28 ms/batch
+****EPOCH 42****
+Step 00021550 L_out=4.068 Acc=0.80 --- 1396.04 ms/batch
+Step 00021600 L_out=2.750 Acc=0.86 --- 1385.47 ms/batch
+Step 00021650 L_out=1.771 Acc=0.92 --- 1897.40 ms/batch
+Step 00021700 L_out=2.023 Acc=0.89 --- 1480.06 ms/batch
+Step 00021750 L_out=2.151 Acc=0.83 --- 1408.59 ms/batch
+Step 00021800 L_out=2.253 Acc=0.89 --- 1493.36 ms/batch
+Step 00021850 L_out=1.835 Acc=0.89 --- 1412.01 ms/batch
+Step 00021900 L_out=3.430 Acc=0.83 --- 1484.66 ms/batch
+Step 00021950 L_out=3.107 Acc=0.88 --- 1402.61 ms/batch
+Step 00022000 L_out=3.301 Acc=0.90 ---  939.03 ms/batch
+eval accuracy: 0.8070923665364583
+mean IOU:0.5339180565134272
+Mean IoU = 53.4%
+--------------------------------------------------------------------------------------
+53.39 | 87.31 93.15 70.88  0.00 25.79 42.51 42.95 67.07 73.41 49.50 62.17 34.76 44.58 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 53.392
+****EPOCH 43****
+Step 00022050 L_out=2.795 Acc=0.88 --- 1331.33 ms/batch
+Step 00022100 L_out=2.358 Acc=0.86 --- 1406.48 ms/batch
+Step 00022150 L_out=0.944 Acc=0.91 --- 1424.07 ms/batch
+Step 00022200 L_out=2.024 Acc=0.87 --- 1394.76 ms/batch
+Step 00022250 L_out=1.909 Acc=0.91 --- 1427.72 ms/batch
+Step 00022300 L_out=2.738 Acc=0.87 --- 1429.51 ms/batch
+Step 00022350 L_out=3.780 Acc=0.80 --- 1545.73 ms/batch
+Step 00022400 L_out=1.933 Acc=0.93 --- 1545.72 ms/batch
+Step 00022450 L_out=4.272 Acc=0.79 --- 1424.24 ms/batch
+Step 00022500 L_out=3.060 Acc=0.80 ---  890.54 ms/batch
+****EPOCH 44****
+Step 00022550 L_out=2.785 Acc=0.86 --- 1341.16 ms/batch
+Step 00022600 L_out=4.387 Acc=0.83 --- 1461.82 ms/batch
+Step 00022650 L_out=4.103 Acc=0.84 --- 1350.92 ms/batch
+Step 00022700 L_out=3.110 Acc=0.85 --- 1397.39 ms/batch
+Step 00022750 L_out=1.639 Acc=0.89 --- 1559.27 ms/batch
+Step 00022800 L_out=4.182 Acc=0.80 --- 1513.57 ms/batch
+Step 00022850 L_out=2.010 Acc=0.89 --- 1331.85 ms/batch
+Step 00022900 L_out=1.452 Acc=0.94 --- 1440.88 ms/batch
+Step 00022950 L_out=2.833 Acc=0.90 --- 1551.00 ms/batch
+Step 00023000 L_out=3.700 Acc=0.86 ---  921.64 ms/batch
+eval accuracy: 0.8093701985677083
+mean IOU:0.5373302300942707
+Mean IoU = 53.7%
+--------------------------------------------------------------------------------------
+53.73 | 89.38 93.18 69.97  0.00 23.76 41.83 44.40 67.86 74.30 53.21 62.49 31.85 46.30 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 53.733
+****EPOCH 45****
+Step 00023050 L_out=1.853 Acc=0.92 --- 1399.49 ms/batch
+Step 00023100 L_out=2.385 Acc=0.86 --- 1400.85 ms/batch
+Step 00023150 L_out=3.635 Acc=0.89 --- 1564.59 ms/batch
+Step 00023200 L_out=1.327 Acc=0.94 --- 1486.77 ms/batch
+Step 00023250 L_out=2.198 Acc=0.91 --- 1337.13 ms/batch
+Step 00023300 L_out=2.469 Acc=0.87 --- 1545.68 ms/batch
+Step 00023350 L_out=2.800 Acc=0.85 --- 1424.45 ms/batch
+Step 00023400 L_out=2.168 Acc=0.86 --- 1427.56 ms/batch
+Step 00023450 L_out=2.983 Acc=0.84 --- 1434.68 ms/batch
+Step 00023500 L_out=2.509 Acc=0.91 ---  909.86 ms/batch
+****EPOCH 46****
+Step 00023550 L_out=2.381 Acc=0.88 --- 1325.97 ms/batch
+Step 00023600 L_out=1.620 Acc=0.93 --- 1344.52 ms/batch
+Step 00023650 L_out=3.641 Acc=0.84 --- 1408.78 ms/batch
+Step 00023700 L_out=2.024 Acc=0.86 --- 1635.10 ms/batch
+Step 00023750 L_out=2.995 Acc=0.88 --- 1440.99 ms/batch
+Step 00023800 L_out=3.491 Acc=0.74 --- 1387.74 ms/batch
+Step 00023850 L_out=2.634 Acc=0.81 --- 1342.62 ms/batch
+Step 00023900 L_out=2.813 Acc=0.83 --- 1680.60 ms/batch
+Step 00023950 L_out=1.916 Acc=0.89 --- 1583.29 ms/batch
+Step 00024000 L_out=2.315 Acc=0.89 ---  925.54 ms/batch
+eval accuracy: 0.8081123453776041
+mean IOU:0.5349311621322861
+Mean IoU = 53.5%
+--------------------------------------------------------------------------------------
+53.49 | 88.50 94.51 69.47  0.00 24.56 41.41 43.98 67.82 74.92 52.92 61.92 28.41 46.99 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 53.733
+****EPOCH 47****
+Step 00024050 L_out=2.125 Acc=0.94 --- 1523.81 ms/batch
+Step 00024100 L_out=1.355 Acc=0.91 --- 1340.20 ms/batch
+Step 00024150 L_out=1.567 Acc=0.90 --- 1455.58 ms/batch
+Step 00024200 L_out=3.896 Acc=0.81 --- 1592.80 ms/batch
+Step 00024250 L_out=1.677 Acc=0.93 --- 1414.99 ms/batch
+Step 00024300 L_out=2.622 Acc=0.88 --- 1624.48 ms/batch
+Step 00024350 L_out=3.346 Acc=0.88 --- 1405.86 ms/batch
+Step 00024400 L_out=1.638 Acc=0.93 --- 1487.88 ms/batch
+Step 00024450 L_out=2.234 Acc=0.85 --- 1440.04 ms/batch
+Step 00024500 L_out=2.794 Acc=0.91 --- 1027.90 ms/batch
+****EPOCH 48****
+Step 00024550 L_out=0.910 Acc=0.94 --- 1367.58 ms/batch
+Step 00024600 L_out=3.208 Acc=0.85 --- 1484.14 ms/batch
+Step 00024650 L_out=1.729 Acc=0.90 --- 1494.09 ms/batch
+Step 00024700 L_out=3.407 Acc=0.88 --- 1551.04 ms/batch
+Step 00024750 L_out=3.292 Acc=0.84 --- 1456.31 ms/batch
+Step 00024800 L_out=1.916 Acc=0.94 --- 1503.09 ms/batch
+Step 00024850 L_out=2.831 Acc=0.85 --- 1399.80 ms/batch
+Step 00024900 L_out=2.250 Acc=0.91 --- 1445.70 ms/batch
+Step 00024950 L_out=2.247 Acc=0.86 --- 1678.58 ms/batch
+Step 00025000 L_out=2.475 Acc=0.84 ---  931.51 ms/batch
+eval accuracy: 0.8178527425130209
+mean IOU:0.5412535243571
+Mean IoU = 54.1%
+--------------------------------------------------------------------------------------
+54.13 | 88.89 93.35 72.42  0.03 21.50 39.18 42.26 66.93 73.78 52.55 62.26 43.40 47.10 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 54.125
+****EPOCH 49****
+Step 00025050 L_out=2.546 Acc=0.87 --- 1373.89 ms/batch
+Step 00025100 L_out=3.523 Acc=0.88 --- 1475.05 ms/batch
+Step 00025150 L_out=1.661 Acc=0.90 --- 1483.64 ms/batch
+Step 00025200 L_out=2.277 Acc=0.88 --- 1568.96 ms/batch
+Step 00025250 L_out=2.731 Acc=0.84 --- 1478.08 ms/batch
+Step 00025300 L_out=2.764 Acc=0.86 --- 1384.47 ms/batch
+Step 00025350 L_out=1.366 Acc=0.92 --- 1353.95 ms/batch
+Step 00025400 L_out=2.496 Acc=0.85 --- 1404.95 ms/batch
+Step 00025450 L_out=2.076 Acc=0.85 --- 1448.84 ms/batch
+Step 00025500 L_out=1.808 Acc=0.89 ---  955.31 ms/batch
+****EPOCH 50****
+Step 00025550 L_out=1.538 Acc=0.91 --- 1400.75 ms/batch
+Step 00025600 L_out=2.828 Acc=0.85 --- 1421.36 ms/batch
+Step 00025650 L_out=3.827 Acc=0.85 --- 1579.23 ms/batch
+Step 00025700 L_out=2.761 Acc=0.89 --- 1405.11 ms/batch
+Step 00025750 L_out=2.602 Acc=0.87 --- 1515.14 ms/batch
+Step 00025800 L_out=2.386 Acc=0.89 --- 1692.66 ms/batch
+Step 00025850 L_out=2.180 Acc=0.88 --- 1495.78 ms/batch
+Step 00025900 L_out=2.448 Acc=0.82 --- 1340.63 ms/batch
+Step 00025950 L_out=7.515 Acc=0.87 --- 1476.58 ms/batch
+Step 00026000 L_out=3.073 Acc=0.80 ---  922.57 ms/batch
+eval accuracy: 0.8143242594401041
+mean IOU:0.5391324846117808
+Mean IoU = 53.9%
+--------------------------------------------------------------------------------------
+53.91 | 88.27 93.06 71.81  0.00 21.23 41.81 42.82 66.29 75.95 56.37 61.78 33.82 47.67 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 54.125
+****EPOCH 51****
+Step 00026050 L_out=3.475 Acc=0.86 --- 1343.24 ms/batch
+Step 00026100 L_out=2.015 Acc=0.87 --- 1457.79 ms/batch
+Step 00026150 L_out=1.781 Acc=0.90 --- 1460.02 ms/batch
+Step 00026200 L_out=2.727 Acc=0.85 --- 1540.45 ms/batch
+Step 00026250 L_out=1.539 Acc=0.88 --- 1427.38 ms/batch
+Step 00026300 L_out=2.137 Acc=0.89 --- 1549.99 ms/batch
+Step 00026350 L_out=1.537 Acc=0.91 --- 1529.24 ms/batch
+Step 00026400 L_out=2.319 Acc=0.88 --- 1497.85 ms/batch
+Step 00026450 L_out=1.352 Acc=0.91 --- 1361.75 ms/batch
+Step 00026500 L_out=1.217 Acc=0.90 ---  872.02 ms/batch
+****EPOCH 52****
+Step 00026550 L_out=1.369 Acc=0.92 --- 1417.54 ms/batch
+Step 00026600 L_out=1.267 Acc=0.94 --- 1407.73 ms/batch
+Step 00026650 L_out=1.867 Acc=0.89 --- 1405.71 ms/batch
+Step 00026700 L_out=2.417 Acc=0.90 --- 1602.83 ms/batch
+Step 00026750 L_out=1.894 Acc=0.89 --- 1345.48 ms/batch
+Step 00026800 L_out=2.140 Acc=0.93 --- 1477.09 ms/batch
+Step 00026850 L_out=1.505 Acc=0.90 --- 1611.51 ms/batch
+Step 00026900 L_out=1.872 Acc=0.90 --- 1542.46 ms/batch
+Step 00026950 L_out=1.235 Acc=0.93 --- 1463.29 ms/batch
+Step 00027000 L_out=2.957 Acc=0.83 ---  928.76 ms/batch
+eval accuracy: 0.8142179768880208
+mean IOU:0.5358033949471825
+Mean IoU = 53.6%
+--------------------------------------------------------------------------------------
+53.58 | 88.57 93.10 71.05  0.00 21.46 42.15 38.43 67.69 74.08 52.83 63.62 36.64 46.95 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 54.125
+****EPOCH 53****
+Step 00027050 L_out=1.673 Acc=0.88 --- 1381.96 ms/batch
+Step 00027100 L_out=1.295 Acc=0.94 --- 1320.01 ms/batch
+Step 00027150 L_out=2.098 Acc=0.92 --- 1578.91 ms/batch
+Step 00027200 L_out=1.611 Acc=0.91 --- 1543.01 ms/batch
+Step 00027250 L_out=2.089 Acc=0.89 --- 1407.52 ms/batch
+Step 00027300 L_out=3.154 Acc=0.82 --- 1323.87 ms/batch
+Step 00027350 L_out=2.516 Acc=0.88 --- 1398.03 ms/batch
+Step 00027400 L_out=2.422 Acc=0.90 --- 1403.34 ms/batch
+Step 00027450 L_out=1.514 Acc=0.86 --- 1373.37 ms/batch
+Step 00027500 L_out=3.788 Acc=0.87 ---  915.69 ms/batch
+****EPOCH 54****
+Step 00027550 L_out=1.327 Acc=0.94 --- 1455.37 ms/batch
+Step 00027600 L_out=1.842 Acc=0.90 --- 1606.78 ms/batch
+Step 00027650 L_out=2.389 Acc=0.88 --- 1396.00 ms/batch
+Step 00027700 L_out=2.792 Acc=0.89 --- 1504.98 ms/batch
+Step 00027750 L_out=1.527 Acc=0.91 --- 1391.64 ms/batch
+Step 00027800 L_out=2.127 Acc=0.90 --- 1386.25 ms/batch
+Step 00027850 L_out=4.104 Acc=0.85 --- 1329.91 ms/batch
+Step 00027900 L_out=1.613 Acc=0.92 --- 1318.87 ms/batch
+Step 00027950 L_out=1.272 Acc=0.93 --- 1714.93 ms/batch
+Step 00028000 L_out=1.836 Acc=0.95 ---  863.83 ms/batch
+eval accuracy: 0.8193274332682292
+mean IOU:0.5396013809384745
+Mean IoU = 54.0%
+--------------------------------------------------------------------------------------
+53.96 | 89.22 93.61 73.05  0.00 23.42 42.76 39.03 67.13 75.01 49.73 61.23 39.11 48.19 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 54.125
+****EPOCH 55****
+Step 00028050 L_out=3.117 Acc=0.84 --- 1402.66 ms/batch
+Step 00028100 L_out=1.638 Acc=0.93 --- 1391.54 ms/batch
+Step 00028150 L_out=1.176 Acc=0.97 --- 1328.40 ms/batch
+Step 00028200 L_out=2.528 Acc=0.88 --- 1421.54 ms/batch
+Step 00028250 L_out=1.911 Acc=0.94 --- 1404.63 ms/batch
+Step 00028300 L_out=2.682 Acc=0.90 --- 1398.22 ms/batch
+Step 00028350 L_out=2.277 Acc=0.88 --- 1596.90 ms/batch
+Step 00028400 L_out=1.459 Acc=0.92 --- 1472.89 ms/batch
+Step 00028450 L_out=1.564 Acc=0.90 --- 1501.80 ms/batch
+Step 00028500 L_out=2.771 Acc=0.83 ---  954.71 ms/batch
+****EPOCH 56****
+Step 00028550 L_out=1.676 Acc=0.93 --- 1507.19 ms/batch
+Step 00028600 L_out=2.733 Acc=0.87 --- 1500.14 ms/batch
+Step 00028650 L_out=1.802 Acc=0.89 --- 1412.70 ms/batch
+Step 00028700 L_out=1.752 Acc=0.92 --- 1386.21 ms/batch
+Step 00028750 L_out=2.639 Acc=0.86 --- 1417.05 ms/batch
+Step 00028800 L_out=2.309 Acc=0.85 --- 1438.23 ms/batch
+Step 00028850 L_out=2.414 Acc=0.82 --- 1464.59 ms/batch
+Step 00028900 L_out=1.110 Acc=0.92 --- 1407.64 ms/batch
+Step 00028950 L_out=1.524 Acc=0.92 --- 1356.27 ms/batch
+Step 00029000 L_out=1.598 Acc=0.87 ---  900.96 ms/batch
+eval accuracy: 0.8200573323567708
+mean IOU:0.5441589500328177
+Mean IoU = 54.4%
+--------------------------------------------------------------------------------------
+54.42 | 88.48 92.60 72.78  0.01 23.43 41.02 42.42 66.99 74.35 53.73 62.95 41.04 47.61 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 54.416
+****EPOCH 57****
+Step 00029050 L_out=2.587 Acc=0.87 --- 1414.23 ms/batch
+Step 00029100 L_out=3.311 Acc=0.88 --- 1556.18 ms/batch
+Step 00029150 L_out=1.476 Acc=0.88 --- 1416.98 ms/batch
+Step 00029200 L_out=3.049 Acc=0.94 --- 1412.20 ms/batch
+Step 00029250 L_out=1.881 Acc=0.88 --- 1447.87 ms/batch
+Step 00029300 L_out=1.543 Acc=0.90 --- 1423.49 ms/batch
+Step 00029350 L_out=1.615 Acc=0.90 --- 1417.76 ms/batch
+Step 00029400 L_out=3.347 Acc=0.86 --- 1382.91 ms/batch
+Step 00029450 L_out=1.882 Acc=0.89 --- 1485.52 ms/batch
+Step 00029500 L_out=1.411 Acc=0.89 ---  922.58 ms/batch
+****EPOCH 58****
+Step 00029550 L_out=1.777 Acc=0.91 --- 1316.44 ms/batch
+Step 00029600 L_out=2.250 Acc=0.86 --- 1307.62 ms/batch
+Step 00029650 L_out=1.918 Acc=0.89 --- 1494.42 ms/batch
+Step 00029700 L_out=3.465 Acc=0.88 --- 1380.73 ms/batch
+Step 00029750 L_out=1.097 Acc=0.92 --- 1346.17 ms/batch
+Step 00029800 L_out=1.765 Acc=0.90 --- 1460.15 ms/batch
+Step 00029850 L_out=1.118 Acc=0.96 --- 1352.91 ms/batch
+Step 00029900 L_out=1.498 Acc=0.89 --- 1476.10 ms/batch
+Step 00029950 L_out=1.272 Acc=0.95 --- 1444.80 ms/batch
+Step 00030000 L_out=0.956 Acc=0.96 ---  901.95 ms/batch
+eval accuracy: 0.81829541015625
+mean IOU:0.5426831252066173
+Mean IoU = 54.3%
+--------------------------------------------------------------------------------------
+54.27 | 89.45 93.58 71.83  0.00 21.69 38.82 42.73 68.26 74.48 56.80 63.11 36.83 47.90 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 54.416
+****EPOCH 59****
+Step 00030050 L_out=1.236 Acc=0.91 --- 1602.06 ms/batch
+Step 00030100 L_out=2.906 Acc=0.84 --- 1447.70 ms/batch
+Step 00030150 L_out=1.009 Acc=0.93 --- 1781.62 ms/batch
+Step 00030200 L_out=2.705 Acc=0.90 --- 1417.75 ms/batch
+Step 00030250 L_out=1.833 Acc=0.84 --- 1492.95 ms/batch
+Step 00030300 L_out=1.782 Acc=0.86 --- 1412.05 ms/batch
+Step 00030350 L_out=1.466 Acc=0.95 --- 1241.21 ms/batch
+Step 00030400 L_out=2.129 Acc=0.91 --- 1400.62 ms/batch
+Step 00030450 L_out=1.107 Acc=0.95 --- 1478.55 ms/batch
+Step 00030500 L_out=1.463 Acc=0.90 --- 1058.39 ms/batch
+****EPOCH 60****
+Step 00030550 L_out=2.813 Acc=0.88 --- 1375.65 ms/batch
+Step 00030600 L_out=1.309 Acc=0.93 --- 1354.15 ms/batch
+Step 00030650 L_out=1.618 Acc=0.88 --- 1449.15 ms/batch
+Step 00030700 L_out=2.399 Acc=0.91 --- 1474.00 ms/batch
+Step 00030750 L_out=0.945 Acc=0.95 --- 1562.83 ms/batch
+Step 00030800 L_out=1.471 Acc=0.93 --- 1376.19 ms/batch
+Step 00030850 L_out=2.617 Acc=0.85 --- 1517.51 ms/batch
+Step 00030900 L_out=0.839 Acc=0.95 --- 1478.07 ms/batch
+Step 00030950 L_out=2.593 Acc=0.91 --- 1514.47 ms/batch
+Step 00031000 L_out=1.997 Acc=0.93 ---  900.06 ms/batch
+eval accuracy: 0.8203467610677083
+mean IOU:0.5382716989805151
+Mean IoU = 53.8%
+--------------------------------------------------------------------------------------
+53.83 | 88.98 93.25 73.15  0.03 20.82 40.66 44.89 67.56 74.41 48.74 62.66 37.25 47.37 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 54.416
+****EPOCH 61****
+Step 00031050 L_out=1.889 Acc=0.89 --- 3826.99 ms/batch
+Step 00031100 L_out=3.219 Acc=0.87 --- 1344.05 ms/batch
+Step 00031150 L_out=1.709 Acc=0.91 --- 1514.00 ms/batch
+Step 00031200 L_out=1.216 Acc=0.91 --- 1544.53 ms/batch
+Step 00031250 L_out=1.718 Acc=0.96 --- 1448.76 ms/batch
+Step 00031300 L_out=1.983 Acc=0.92 --- 1395.64 ms/batch
+Step 00031350 L_out=1.909 Acc=0.90 --- 1412.23 ms/batch
+****EPOCH 61****
+Session Started
+Step 00030550 L_out=1.566 Acc=0.90 --- 5806.15 ms/batch
+Step 00030600 L_out=4.303 Acc=0.87 --- 3725.22 ms/batch
+Step 00030650 L_out=6.302 Acc=0.83 --- 3897.80 ms/batch
+Step 00030700 L_out=2.234 Acc=0.87 --- 6394.89 ms/batch
+Step 00030750 L_out=3.441 Acc=0.84 --- 6893.39 ms/batch
+Step 00030800 L_out=2.652 Acc=0.85 --- 5611.78 ms/batch
+Step 00030850 L_out=8.139 Acc=0.82 --- 5007.46 ms/batch
+Step 00030900 L_out=2.383 Acc=0.86 --- 5217.07 ms/batch
+Step 00030950 L_out=2.639 Acc=0.90 --- 4492.46 ms/batch
+Step 00031000 L_out=4.695 Acc=0.82 --- 5195.36 ms/batch
+****EPOCH 62****
+Step 00031050 L_out=0.865 Acc=0.94 --- 4099.15 ms/batch
+Step 00031100 L_out=2.237 Acc=0.90 --- 6619.97 ms/batch
+Step 00031150 L_out=2.277 Acc=0.85 --- 6226.87 ms/batch
+Step 00031200 L_out=2.605 Acc=0.86 --- 4986.73 ms/batch
+Step 00031250 L_out=1.220 Acc=0.92 --- 6092.11 ms/batch
+Step 00031300 L_out=2.491 Acc=0.85 --- 4679.03 ms/batch
+Step 00031350 L_out=2.463 Acc=0.89 --- 5299.98 ms/batch
+Step 00031400 L_out=3.354 Acc=0.86 --- 6326.01 ms/batch
+Step 00031450 L_out=1.134 Acc=0.93 --- 5407.92 ms/batch
+Step 00031500 L_out=3.816 Acc=0.76 --- 4206.90 ms/batch
+eval accuracy: 0.8154550374348958
+mean IOU:0.5470854462432237
+Mean IoU = 54.7%
+--------------------------------------------------------------------------------------
+54.71 | 88.32 93.16 71.56  0.00 23.47 44.28 45.00 69.49 77.06 55.10 63.49 32.96 47.32 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 54.709
+****EPOCH 63****
+Step 00031550 L_out=2.341 Acc=0.91 --- 5598.11 ms/batch
+Step 00031600 L_out=4.001 Acc=0.85 --- 5701.92 ms/batch
+Step 00031650 L_out=2.356 Acc=0.85 --- 5597.80 ms/batch
+Step 00031700 L_out=3.663 Acc=0.82 --- 5200.09 ms/batch
+Step 00031750 L_out=4.933 Acc=0.85 --- 5986.91 ms/batch
+Step 00031800 L_out=2.073 Acc=0.90 --- 5492.94 ms/batch
+Step 00031850 L_out=1.324 Acc=0.91 --- 6515.37 ms/batch
+Step 00031900 L_out=2.270 Acc=0.88 --- 4728.97 ms/batch
+Step 00031950 L_out=2.010 Acc=0.90 --- 4985.99 ms/batch
+Step 00032000 L_out=3.369 Acc=0.79 --- 4661.46 ms/batch
+****EPOCH 64****
+Step 00032050 L_out=3.419 Acc=0.85 --- 6503.19 ms/batch
+Step 00032100 L_out=5.172 Acc=0.84 --- 3815.33 ms/batch
+Step 00032150 L_out=1.711 Acc=0.92 --- 6803.57 ms/batch
+Step 00032200 L_out=4.491 Acc=0.85 --- 5724.54 ms/batch
+Step 00032250 L_out=1.040 Acc=0.92 --- 6023.79 ms/batch
+Step 00032300 L_out=1.704 Acc=0.91 --- 4803.63 ms/batch
+Step 00032350 L_out=2.842 Acc=0.90 --- 5215.37 ms/batch
+Step 00032400 L_out=4.162 Acc=0.86 --- 4308.56 ms/batch
+Step 00032450 L_out=3.133 Acc=0.84 --- 5481.28 ms/batch
+Step 00032500 L_out=1.026 Acc=0.93 --- 4033.95 ms/batch
+eval accuracy: 0.8117434488932291
+mean IOU:0.5453449500724686
+Mean IoU = 54.5%
+--------------------------------------------------------------------------------------
+54.53 | 87.58 92.85 70.69  0.00 25.28 42.36 43.60 69.81 75.78 56.13 63.82 33.67 47.38 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 54.709
+****EPOCH 65****
+Step 00032550 L_out=3.212 Acc=0.86 --- 5022.42 ms/batch
+Step 00032600 L_out=1.260 Acc=0.88 --- 5667.38 ms/batch
+Step 00032650 L_out=2.492 Acc=0.90 --- 4815.65 ms/batch
+Step 00032700 L_out=5.049 Acc=0.78 --- 5708.00 ms/batch
+Step 00032750 L_out=2.015 Acc=0.89 --- 4989.73 ms/batch
+Step 00032800 L_out=2.207 Acc=0.85 --- 5484.50 ms/batch
+Step 00032850 L_out=3.029 Acc=0.85 --- 8117.67 ms/batch
+Step 00032900 L_out=2.164 Acc=0.90 --- 4773.01 ms/batch
+Step 00032950 L_out=1.749 Acc=0.90 --- 6346.35 ms/batch
+Step 00033000 L_out=1.154 Acc=0.92 --- 3766.02 ms/batch
+****EPOCH 66****
+Step 00033050 L_out=2.809 Acc=0.83 --- 5705.61 ms/batch
+Step 00033100 L_out=1.875 Acc=0.84 --- 4171.31 ms/batch
+Step 00033150 L_out=1.575 Acc=0.91 --- 5205.00 ms/batch
+Step 00033200 L_out=1.547 Acc=0.92 --- 4300.33 ms/batch
+Step 00033250 L_out=2.091 Acc=0.88 --- 5106.45 ms/batch
+Step 00033300 L_out=1.759 Acc=0.88 --- 6289.33 ms/batch
+Step 00033350 L_out=1.212 Acc=0.94 --- 5901.85 ms/batch
+Step 00033400 L_out=2.663 Acc=0.86 --- 5319.00 ms/batch
+Step 00033450 L_out=1.395 Acc=0.93 --- 5002.31 ms/batch
+Step 00033500 L_out=2.304 Acc=0.88 --- 3440.52 ms/batch
+eval accuracy: 0.8153896891276041
+mean IOU:0.5457697890175167
+Mean IoU = 54.6%
+--------------------------------------------------------------------------------------
+54.58 | 88.29 93.45 71.02  0.00 23.09 44.51 43.29 69.86 77.86 54.31 62.94 32.97 47.92 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 54.709
+****EPOCH 67****
+Step 00033550 L_out=1.934 Acc=0.90 --- 4164.46 ms/batch
+Step 00033600 L_out=2.676 Acc=0.86 --- 3722.70 ms/batch
+Step 00033650 L_out=3.275 Acc=0.84 --- 3584.43 ms/batch
+Step 00033700 L_out=2.204 Acc=0.91 --- 4920.30 ms/batch
+Step 00033750 L_out=2.093 Acc=0.92 --- 3899.24 ms/batch
+****EPOCH 67****
+Session Started
+Step 00033050 L_out=4.364 Acc=0.77 --- 1797.07 ms/batch
+Step 00033100 L_out=2.323 Acc=0.89 --- 2173.02 ms/batch
+Step 00033150 L_out=2.657 Acc=0.88 --- 2006.18 ms/batch
+Step 00033200 L_out=1.735 Acc=0.88 --- 2192.36 ms/batch
+Step 00033250 L_out=2.291 Acc=0.93 --- 2404.91 ms/batch
+Step 00033300 L_out=3.233 Acc=0.90 --- 1905.32 ms/batch
+Step 00033350 L_out=2.281 Acc=0.85 --- 1700.00 ms/batch
+Step 00033400 L_out=2.579 Acc=0.90 --- 2078.92 ms/batch
+Step 00033450 L_out=2.679 Acc=0.85 --- 2005.30 ms/batch
+Step 00033500 L_out=1.367 Acc=0.89 ---  920.98 ms/batch
+****EPOCH 68****
+Step 00033550 L_out=2.493 Acc=0.85 --- 1814.40 ms/batch
+Step 00033600 L_out=3.190 Acc=0.87 --- 2678.77 ms/batch
+Step 00033650 L_out=1.864 Acc=0.94 --- 1675.55 ms/batch
+Step 00033700 L_out=2.241 Acc=0.87 --- 1838.91 ms/batch
+Step 00033750 L_out=3.027 Acc=0.84 --- 2083.72 ms/batch
+Step 00033800 L_out=2.080 Acc=0.88 --- 1613.93 ms/batch
+Step 00033850 L_out=2.078 Acc=0.92 --- 1903.48 ms/batch
+Step 00033900 L_out=1.499 Acc=0.93 --- 2409.82 ms/batch
+Step 00033950 L_out=1.940 Acc=0.92 --- 2146.14 ms/batch
+Step 00034000 L_out=3.593 Acc=0.91 --- 1072.71 ms/batch
+eval accuracy: 0.8210571695963542
+mean IOU:0.5558979382764999
+Mean IoU = 55.6%
+--------------------------------------------------------------------------------------
+55.59 | 88.43 93.28 72.32  0.00 23.91 45.65 45.40 69.88 78.10 57.54 64.53 35.92 47.71 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 55.590
+****EPOCH 69****
+Step 00034050 L_out=2.954 Acc=0.83 --- 1682.90 ms/batch
+Step 00034100 L_out=1.902 Acc=0.91 --- 1700.14 ms/batch
+Step 00034150 L_out=1.656 Acc=0.91 --- 1717.19 ms/batch
+Step 00034200 L_out=1.956 Acc=0.88 --- 2198.83 ms/batch
+Step 00034250 L_out=3.065 Acc=0.85 --- 2324.06 ms/batch
+Step 00034300 L_out=3.947 Acc=0.86 --- 2008.19 ms/batch
+Step 00034350 L_out=2.156 Acc=0.87 --- 2587.56 ms/batch
+Step 00034400 L_out=0.942 Acc=0.93 --- 1795.00 ms/batch
+Step 00034450 L_out=2.778 Acc=0.86 --- 2081.94 ms/batch
+Step 00034500 L_out=3.331 Acc=0.90 --- 1208.82 ms/batch
+****EPOCH 70****
+Step 00034550 L_out=1.037 Acc=0.95 --- 1937.85 ms/batch
+Step 00034600 L_out=1.318 Acc=0.86 --- 1918.72 ms/batch
+Step 00034650 L_out=2.765 Acc=0.85 --- 1943.60 ms/batch
+Step 00034700 L_out=2.642 Acc=0.85 --- 1793.71 ms/batch
+Step 00034750 L_out=2.876 Acc=0.85 --- 2200.23 ms/batch
+Step 00034800 L_out=1.743 Acc=0.90 --- 2137.98 ms/batch
+Step 00034850 L_out=2.696 Acc=0.75 --- 1955.82 ms/batch
+Step 00034900 L_out=2.676 Acc=0.88 --- 1665.01 ms/batch
+Step 00034950 L_out=3.387 Acc=0.85 --- 1936.96 ms/batch
+Step 00035000 L_out=3.280 Acc=0.89 --- 1363.35 ms/batch
+eval accuracy: 0.8186869710286458
+mean IOU:0.5507224399778774
+Mean IoU = 55.1%
+--------------------------------------------------------------------------------------
+55.07 | 88.33 93.19 72.70  0.00 23.97 42.12 46.21 70.16 77.57 55.21 62.99 35.68 47.81 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 55.590
+****EPOCH 71****
+Step 00035050 L_out=2.767 Acc=0.85 --- 2704.41 ms/batch
+Step 00035100 L_out=3.283 Acc=0.86 --- 2002.70 ms/batch
+Step 00035150 L_out=2.597 Acc=0.89 --- 2007.43 ms/batch
+Step 00035200 L_out=4.193 Acc=0.84 --- 1911.26 ms/batch
+Step 00035250 L_out=3.416 Acc=0.84 --- 2270.37 ms/batch
+Step 00035300 L_out=1.708 Acc=0.88 --- 1703.16 ms/batch
+Step 00035350 L_out=3.819 Acc=0.81 --- 1888.98 ms/batch
+Step 00035400 L_out=3.111 Acc=0.89 --- 1804.18 ms/batch
+Step 00035450 L_out=3.774 Acc=0.91 --- 1620.69 ms/batch
+Step 00035500 L_out=2.645 Acc=0.85 --- 1461.84 ms/batch
+****EPOCH 72****
+Step 00035550 L_out=1.692 Acc=0.93 --- 2561.99 ms/batch
+Step 00035600 L_out=1.588 Acc=0.91 --- 2015.35 ms/batch
+Step 00035650 L_out=1.058 Acc=0.91 --- 1660.43 ms/batch
+Step 00035700 L_out=2.717 Acc=0.85 --- 2800.26 ms/batch
+Step 00035750 L_out=3.951 Acc=0.83 --- 1828.02 ms/batch
+Step 00035800 L_out=2.369 Acc=0.85 --- 2027.08 ms/batch
+Step 00035850 L_out=2.250 Acc=0.88 --- 1794.50 ms/batch
+Step 00035900 L_out=2.542 Acc=0.89 --- 2414.59 ms/batch
+Step 00035950 L_out=1.962 Acc=0.86 --- 2191.14 ms/batch
+Step 00036000 L_out=4.577 Acc=0.87 --- 1555.65 ms/batch
+eval accuracy: 0.8168140869140625
+mean IOU:0.5474551191494333
+Mean IoU = 54.7%
+--------------------------------------------------------------------------------------
+54.75 | 87.54 93.24 72.58  0.00 23.26 42.43 45.32 69.33 75.79 54.81 63.30 37.28 46.82 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 55.590
+****EPOCH 73****
+Step 00036050 L_out=2.965 Acc=0.90 --- 2012.95 ms/batch
+Step 00036100 L_out=2.622 Acc=0.89 --- 2190.52 ms/batch
+Step 00036150 L_out=2.158 Acc=0.88 --- 2289.55 ms/batch
+Step 00036200 L_out=1.737 Acc=0.88 --- 2028.83 ms/batch
+Step 00036250 L_out=2.873 Acc=0.88 --- 2301.16 ms/batch
+Step 00036300 L_out=1.984 Acc=0.88 --- 2311.46 ms/batch
+Step 00036350 L_out=1.598 Acc=0.95 --- 2801.86 ms/batch
+Step 00036400 L_out=6.091 Acc=0.85 --- 1594.65 ms/batch
+Step 00036450 L_out=2.598 Acc=0.90 --- 1807.10 ms/batch
+Step 00036500 L_out=3.880 Acc=0.81 --- 1094.77 ms/batch
+****EPOCH 74****
+Step 00036550 L_out=1.799 Acc=0.92 --- 1713.00 ms/batch
+Step 00036600 L_out=1.355 Acc=0.90 --- 1592.15 ms/batch
+Step 00036650 L_out=2.231 Acc=0.90 --- 2105.45 ms/batch
+Step 00036700 L_out=1.030 Acc=0.94 --- 1720.27 ms/batch
+Step 00036750 L_out=2.778 Acc=0.83 --- 2098.18 ms/batch
+Step 00036800 L_out=1.767 Acc=0.90 --- 1827.12 ms/batch
+Step 00036850 L_out=2.660 Acc=0.91 --- 1702.20 ms/batch
+Step 00036900 L_out=1.869 Acc=0.93 --- 1789.26 ms/batch
+Step 00036950 L_out=2.115 Acc=0.90 --- 1996.64 ms/batch
+Step 00037000 L_out=1.587 Acc=0.89 --- 1488.30 ms/batch
+eval accuracy: 0.8210935465494792
+mean IOU:0.5545470922299442
+Mean IoU = 55.5%
+--------------------------------------------------------------------------------------
+55.45 | 88.31 93.62 72.76  0.00 25.11 42.52 45.68 69.78 77.23 57.09 63.68 36.83 48.32 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 55.590
+****EPOCH 75****
+Step 00037050 L_out=1.853 Acc=0.92 --- 1773.78 ms/batch
+Step 00037100 L_out=2.781 Acc=0.89 --- 1938.07 ms/batch
+Step 00037150 L_out=2.873 Acc=0.87 --- 1677.40 ms/batch
+Step 00037200 L_out=1.313 Acc=0.93 --- 1668.42 ms/batch
+Step 00037250 L_out=4.244 Acc=0.85 --- 1585.55 ms/batch
+Step 00037300 L_out=1.883 Acc=0.92 --- 2408.30 ms/batch
+Step 00037350 L_out=2.302 Acc=0.88 --- 1725.02 ms/batch
+Step 00037400 L_out=1.529 Acc=0.91 --- 2196.84 ms/batch
+Step 00037450 L_out=1.975 Acc=0.91 --- 1938.24 ms/batch
+Step 00037500 L_out=2.147 Acc=0.87 --- 1237.55 ms/batch
+****EPOCH 76****
+Step 00037550 L_out=1.955 Acc=0.93 --- 1900.40 ms/batch
+Step 00037600 L_out=1.691 Acc=0.85 --- 2042.86 ms/batch
+Step 00037650 L_out=1.493 Acc=0.92 --- 2197.44 ms/batch
+Step 00037700 L_out=1.701 Acc=0.91 --- 2296.11 ms/batch
+Step 00037750 L_out=2.476 Acc=0.85 --- 1653.57 ms/batch
+Step 00037800 L_out=1.849 Acc=0.90 --- 1644.52 ms/batch
+Step 00037850 L_out=2.848 Acc=0.84 --- 1962.70 ms/batch
+Step 00037900 L_out=2.644 Acc=0.86 --- 2340.68 ms/batch
+Step 00037950 L_out=2.299 Acc=0.87 --- 1803.18 ms/batch
+Step 00038000 L_out=2.270 Acc=0.89 ---  922.21 ms/batch
+eval accuracy: 0.8184810791015625
+mean IOU:0.5565576747816862
+Mean IoU = 55.7%
+--------------------------------------------------------------------------------------
+55.66 | 87.37 92.98 72.83  0.00 25.01 41.38 44.76 68.82 77.72 61.04 63.63 41.15 46.82 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 55.656
+****EPOCH 77****
+Step 00038050 L_out=1.814 Acc=0.94 --- 2625.07 ms/batch
+Step 00038100 L_out=3.177 Acc=0.84 --- 2120.69 ms/batch
+Step 00038150 L_out=3.718 Acc=0.84 --- 1988.51 ms/batch
+Step 00038200 L_out=2.381 Acc=0.83 --- 2044.91 ms/batch
+Step 00038250 L_out=1.278 Acc=0.94 --- 2388.41 ms/batch
+Step 00038300 L_out=2.202 Acc=0.88 --- 1606.14 ms/batch
+Step 00038350 L_out=0.971 Acc=0.97 --- 1801.78 ms/batch
+Step 00038400 L_out=3.552 Acc=0.80 --- 2126.62 ms/batch
+Step 00038450 L_out=3.153 Acc=0.91 --- 2240.34 ms/batch
+Step 00038500 L_out=2.371 Acc=0.90 --- 1398.46 ms/batch
+****EPOCH 78****
+Step 00038550 L_out=0.903 Acc=0.93 --- 1792.67 ms/batch
+Step 00038600 L_out=3.244 Acc=0.84 --- 2156.35 ms/batch
+Step 00038650 L_out=1.489 Acc=0.90 --- 1700.25 ms/batch
+Step 00038700 L_out=1.402 Acc=0.96 --- 1679.06 ms/batch
+Step 00038750 L_out=3.363 Acc=0.86 --- 1986.28 ms/batch
+Step 00038800 L_out=1.663 Acc=0.92 --- 1900.72 ms/batch
+Step 00038850 L_out=1.586 Acc=0.90 --- 1985.25 ms/batch
+Step 00038900 L_out=1.087 Acc=0.92 --- 1939.89 ms/batch
+Step 00038950 L_out=4.932 Acc=0.90 --- 1698.17 ms/batch
+Step 00039000 L_out=3.096 Acc=0.88 --- 1089.67 ms/batch
+eval accuracy: 0.8196427408854167
+mean IOU:0.5490316475150067
+Mean IoU = 54.9%
+--------------------------------------------------------------------------------------
+54.90 | 88.62 93.65 73.04  0.00 22.61 42.79 47.57 68.56 76.21 54.45 62.83 35.98 47.44 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 55.656
+****EPOCH 79****
+Step 00039050 L_out=2.690 Acc=0.89 --- 2603.56 ms/batch
+Step 00039100 L_out=4.767 Acc=0.78 --- 1752.56 ms/batch
+Step 00039150 L_out=2.366 Acc=0.88 --- 1918.39 ms/batch
+Step 00039200 L_out=0.725 Acc=0.96 --- 1892.81 ms/batch
+Step 00039250 L_out=2.155 Acc=0.91 --- 2013.98 ms/batch
+Step 00039300 L_out=2.284 Acc=0.89 --- 2304.91 ms/batch
+Step 00039350 L_out=3.251 Acc=0.85 --- 2223.72 ms/batch
+Step 00039400 L_out=1.078 Acc=0.95 --- 1673.50 ms/batch
+Step 00039450 L_out=2.530 Acc=0.89 --- 1827.65 ms/batch
+Step 00039500 L_out=2.392 Acc=0.88 --- 1536.70 ms/batch
+****EPOCH 80****
+Step 00039550 L_out=2.822 Acc=0.88 --- 1919.73 ms/batch
+Step 00039600 L_out=1.647 Acc=0.88 --- 1776.15 ms/batch
+Step 00039650 L_out=0.990 Acc=0.94 --- 2697.56 ms/batch
+Step 00039700 L_out=3.479 Acc=0.90 --- 1787.72 ms/batch
+Step 00039750 L_out=2.637 Acc=0.88 --- 2029.57 ms/batch
+Step 00039800 L_out=2.886 Acc=0.81 --- 1896.77 ms/batch
+Step 00039850 L_out=3.062 Acc=0.90 --- 1828.24 ms/batch
+Step 00039900 L_out=1.894 Acc=0.90 --- 1606.48 ms/batch
+Step 00039950 L_out=2.300 Acc=0.89 --- 2180.71 ms/batch
+Step 00040000 L_out=1.511 Acc=0.90 --- 1279.92 ms/batch
+eval accuracy: 0.823368408203125
+mean IOU:0.5509031815156773
+Mean IoU = 55.1%
+--------------------------------------------------------------------------------------
+55.09 | 88.69 93.38 73.38  0.00 21.68 41.64 44.10 69.75 77.29 58.66 63.59 35.68 48.35 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 55.656
+****EPOCH 81****
+Step 00040050 L_out=1.737 Acc=0.88 --- 1850.83 ms/batch
+Step 00040100 L_out=2.909 Acc=0.89 --- 1704.71 ms/batch
+Step 00040150 L_out=2.106 Acc=0.85 --- 1602.69 ms/batch
+Step 00040200 L_out=5.234 Acc=0.82 --- 1977.78 ms/batch
+Step 00040250 L_out=2.322 Acc=0.90 --- 1912.40 ms/batch
+Step 00040300 L_out=3.027 Acc=0.87 --- 1515.72 ms/batch
+Step 00040350 L_out=3.876 Acc=0.90 --- 1530.62 ms/batch
+Step 00040400 L_out=1.525 Acc=0.91 --- 2402.34 ms/batch
+Step 00040450 L_out=1.303 Acc=0.92 --- 2266.66 ms/batch
+Step 00040500 L_out=4.557 Acc=0.86 ---  987.81 ms/batch
+****EPOCH 82****
+Step 00040550 L_out=3.807 Acc=0.82 --- 1639.90 ms/batch
+Step 00040600 L_out=2.288 Acc=0.85 --- 2017.52 ms/batch
+Step 00040650 L_out=1.986 Acc=0.89 --- 1714.10 ms/batch
+Step 00040700 L_out=3.666 Acc=0.86 --- 1846.74 ms/batch
+Step 00040750 L_out=1.805 Acc=0.87 --- 1896.69 ms/batch
+Step 00040800 L_out=1.235 Acc=0.91 --- 2000.48 ms/batch
+Step 00040850 L_out=1.993 Acc=0.90 --- 1669.48 ms/batch
+Step 00040900 L_out=1.746 Acc=0.90 --- 2540.23 ms/batch
+Step 00040950 L_out=1.985 Acc=0.88 --- 1753.18 ms/batch
+Step 00041000 L_out=2.006 Acc=0.89 --- 1058.64 ms/batch
+eval accuracy: 0.8210828450520833
+mean IOU:0.5483778456280967
+Mean IoU = 54.8%
+--------------------------------------------------------------------------------------
+54.84 | 88.17 93.54 73.09  0.00 24.13 42.05 45.94 69.36 76.14 51.28 63.50 38.25 47.42 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 55.656
+****EPOCH 83****
+Step 00041050 L_out=4.275 Acc=0.85 --- 1521.88 ms/batch
+Step 00041100 L_out=2.181 Acc=0.90 --- 1610.17 ms/batch
+Step 00041150 L_out=2.584 Acc=0.90 --- 1930.07 ms/batch
+Step 00041200 L_out=1.660 Acc=0.90 --- 1935.88 ms/batch
+Step 00041250 L_out=3.498 Acc=0.90 --- 1693.28 ms/batch
+Step 00041300 L_out=3.419 Acc=0.85 --- 1683.58 ms/batch
+Step 00041350 L_out=1.904 Acc=0.90 --- 1706.33 ms/batch
+Step 00041400 L_out=2.100 Acc=0.93 --- 2119.38 ms/batch
+Step 00041450 L_out=2.460 Acc=0.88 --- 2005.23 ms/batch
+****EPOCH 83****
+Session Started
+Step 00040550 L_out=3.657 Acc=0.82 --- 3067.43 ms/batch
+Step 00040600 L_out=2.008 Acc=0.92 --- 2405.27 ms/batch
+Step 00040650 L_out=1.341 Acc=0.95 --- 2475.86 ms/batch
+Step 00040700 L_out=2.985 Acc=0.89 --- 2993.76 ms/batch
+Step 00040750 L_out=4.064 Acc=0.88 --- 2710.56 ms/batch
+Step 00040800 L_out=3.548 Acc=0.86 --- 2418.43 ms/batch
+Step 00040850 L_out=4.756 Acc=0.80 --- 2562.79 ms/batch
+Step 00040900 L_out=4.668 Acc=0.74 --- 2682.27 ms/batch
+Step 00040950 L_out=3.282 Acc=0.88 --- 2680.57 ms/batch
+Step 00041000 L_out=2.296 Acc=0.86 --- 1612.37 ms/batch
+****EPOCH 84****
+Step 00041050 L_out=3.028 Acc=0.89 --- 2326.80 ms/batch
+Step 00041100 L_out=2.460 Acc=0.87 --- 2773.79 ms/batch
+Step 00041150 L_out=2.960 Acc=0.87 --- 3306.49 ms/batch
+Step 00041200 L_out=2.755 Acc=0.87 --- 2810.86 ms/batch
+Step 00041250 L_out=3.251 Acc=0.83 --- 2438.39 ms/batch
+Step 00041300 L_out=0.938 Acc=0.93 --- 2692.19 ms/batch
+Step 00041350 L_out=3.792 Acc=0.85 --- 2122.53 ms/batch
+Step 00041400 L_out=4.149 Acc=0.89 --- 2585.00 ms/batch
+Step 00041450 L_out=3.270 Acc=0.90 --- 2275.07 ms/batch
+Step 00041500 L_out=2.807 Acc=0.86 --- 1465.17 ms/batch
+eval accuracy: 0.8205528157552083
+mean IOU:0.5552008015123377
+Mean IoU = 55.5%
+--------------------------------------------------------------------------------------
+55.52 | 88.10 93.25 72.46  0.00 25.23 44.60 47.74 69.90 77.10 55.09 64.30 36.74 47.24 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 55.656
+****EPOCH 85****
+Step 00041550 L_out=3.547 Acc=0.85 --- 2207.85 ms/batch
+Step 00041600 L_out=2.662 Acc=0.84 --- 2200.13 ms/batch
+Step 00041650 L_out=2.188 Acc=0.91 --- 2167.45 ms/batch
+Step 00041700 L_out=3.334 Acc=0.82 --- 2205.49 ms/batch
+Step 00041750 L_out=3.570 Acc=0.83 --- 3374.91 ms/batch
+Step 00041800 L_out=2.667 Acc=0.87 --- 2272.84 ms/batch
+Step 00041850 L_out=2.607 Acc=0.87 --- 2426.40 ms/batch
+Step 00041900 L_out=1.836 Acc=0.90 --- 2384.81 ms/batch
+Step 00041950 L_out=2.250 Acc=0.87 --- 2210.00 ms/batch
+Step 00042000 L_out=1.209 Acc=0.90 --- 1391.27 ms/batch
+****EPOCH 86****
+Step 00042050 L_out=2.718 Acc=0.85 --- 2020.98 ms/batch
+Step 00042100 L_out=3.539 Acc=0.86 --- 4914.26 ms/batch
+Step 00042150 L_out=1.193 Acc=0.93 --- 2412.03 ms/batch
+Step 00042200 L_out=2.179 Acc=0.95 --- 2382.73 ms/batch
+Step 00042250 L_out=2.933 Acc=0.85 --- 2396.49 ms/batch
+Step 00042300 L_out=1.667 Acc=0.88 --- 2604.22 ms/batch
+Step 00042350 L_out=2.521 Acc=0.88 --- 2212.90 ms/batch
+Step 00042400 L_out=3.164 Acc=0.85 --- 2119.13 ms/batch
+Step 00042450 L_out=1.948 Acc=0.92 --- 3171.15 ms/batch
+Step 00042500 L_out=2.347 Acc=0.90 --- 1595.59 ms/batch
+eval accuracy: 0.8221609700520833
+mean IOU:0.5559728579011405
+Mean IoU = 55.6%
+--------------------------------------------------------------------------------------
+55.60 | 87.82 93.20 73.08  0.00 25.44 42.84 46.54 70.14 77.21 57.84 63.95 37.09 47.63 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 55.656
+****EPOCH 87****
+Step 00042550 L_out=3.157 Acc=0.86 --- 3205.04 ms/batch
+Step 00042600 L_out=3.924 Acc=0.84 --- 3206.77 ms/batch
+Step 00042650 L_out=1.827 Acc=0.90 --- 2941.83 ms/batch
+Step 00042700 L_out=1.573 Acc=0.93 --- 3318.00 ms/batch
+Step 00042750 L_out=3.280 Acc=0.85 --- 3010.01 ms/batch
+Step 00042800 L_out=2.904 Acc=0.88 --- 3414.18 ms/batch
+Step 00042850 L_out=2.226 Acc=0.89 --- 2804.06 ms/batch
+Step 00042900 L_out=5.152 Acc=0.78 --- 3193.36 ms/batch
+Step 00042950 L_out=1.958 Acc=0.86 --- 3521.26 ms/batch
+Step 00043000 L_out=2.889 Acc=0.82 --- 1998.71 ms/batch
+****EPOCH 88****
+Step 00043050 L_out=4.092 Acc=0.84 --- 3303.58 ms/batch
+Step 00043100 L_out=2.196 Acc=0.92 --- 2819.12 ms/batch
+Step 00043150 L_out=2.607 Acc=0.86 --- 2901.08 ms/batch
+Step 00043200 L_out=2.991 Acc=0.90 --- 3403.36 ms/batch
+Step 00043250 L_out=1.193 Acc=0.93 --- 2364.71 ms/batch
+Step 00043300 L_out=2.974 Acc=0.87 --- 2222.84 ms/batch
+Step 00043350 L_out=3.470 Acc=0.84 --- 2430.47 ms/batch
+Step 00043400 L_out=2.867 Acc=0.86 --- 2293.88 ms/batch
+Step 00043450 L_out=2.845 Acc=0.81 --- 2744.65 ms/batch
+Step 00043500 L_out=2.261 Acc=0.91 --- 1739.42 ms/batch
+eval accuracy: 0.8230288492838541
+mean IOU:0.5550110823822358
+Mean IoU = 55.5%
+--------------------------------------------------------------------------------------
+55.50 | 88.37 93.61 72.90  0.00 23.66 43.53 47.87 69.26 77.05 55.86 64.45 37.52 47.43 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 55.656
+****EPOCH 89****
+Step 00043550 L_out=2.257 Acc=0.89 --- 2409.75 ms/batch
+Step 00043600 L_out=1.141 Acc=0.96 --- 2935.92 ms/batch
+Step 00043650 L_out=1.925 Acc=0.88 --- 2689.01 ms/batch
+Step 00043700 L_out=0.972 Acc=0.97 --- 2496.51 ms/batch
+Step 00043750 L_out=2.737 Acc=0.82 --- 2326.07 ms/batch
+Step 00043800 L_out=2.494 Acc=0.85 --- 2897.44 ms/batch
+Step 00043850 L_out=4.647 Acc=0.85 --- 2803.18 ms/batch
+Step 00043900 L_out=1.699 Acc=0.88 --- 2487.56 ms/batch
+Step 00043950 L_out=1.726 Acc=0.95 --- 2821.80 ms/batch
+Step 00044000 L_out=2.412 Acc=0.89 --- 1456.52 ms/batch
+****EPOCH 90****
+Step 00044050 L_out=2.350 Acc=0.88 --- 2419.41 ms/batch
+Step 00044100 L_out=1.710 Acc=0.90 --- 2573.82 ms/batch
+Step 00044150 L_out=6.550 Acc=0.73 --- 3512.07 ms/batch
+Step 00044200 L_out=2.835 Acc=0.92 --- 2805.27 ms/batch
+Step 00044250 L_out=2.150 Acc=0.81 --- 2629.60 ms/batch
+Step 00044300 L_out=1.866 Acc=0.93 --- 2427.58 ms/batch
+Step 00044350 L_out=3.421 Acc=0.85 --- 2544.53 ms/batch
+Step 00044400 L_out=4.022 Acc=0.85 --- 2597.36 ms/batch
+Step 00044450 L_out=2.146 Acc=0.91 --- 2198.19 ms/batch
+Step 00044500 L_out=1.326 Acc=0.92 --- 1665.47 ms/batch
+eval accuracy: 0.821137451171875
+mean IOU:0.5534572683106009
+Mean IoU = 55.3%
+--------------------------------------------------------------------------------------
+55.35 | 88.11 93.48 72.14  0.00 26.04 43.38 47.09 70.24 77.46 52.47 64.72 36.83 47.54 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 55.656
+****EPOCH 91****
+Step 00044550 L_out=2.015 Acc=0.90 --- 3080.13 ms/batch
+Step 00044600 L_out=1.935 Acc=0.90 --- 3271.41 ms/batch
+Step 00044650 L_out=1.953 Acc=0.91 --- 3284.84 ms/batch
+Step 00044700 L_out=2.311 Acc=0.85 --- 3018.45 ms/batch
+Step 00044750 L_out=2.572 Acc=0.87 --- 3191.41 ms/batch
+Step 00044800 L_out=1.969 Acc=0.80 --- 3271.96 ms/batch
+Step 00044850 L_out=3.265 Acc=0.86 --- 2954.29 ms/batch
+Step 00044900 L_out=1.439 Acc=0.91 --- 2645.29 ms/batch
+Step 00044950 L_out=1.946 Acc=0.89 --- 2521.56 ms/batch
+Step 00045000 L_out=2.021 Acc=0.88 --- 2406.51 ms/batch
+****EPOCH 92****
+Step 00045050 L_out=1.559 Acc=0.92 --- 2559.10 ms/batch
+Step 00045100 L_out=2.827 Acc=0.92 --- 2989.64 ms/batch
+Step 00045150 L_out=2.851 Acc=0.87 --- 2799.21 ms/batch
+Step 00045200 L_out=3.710 Acc=0.89 --- 3915.75 ms/batch
+Step 00045250 L_out=1.628 Acc=0.90 --- 3405.98 ms/batch
+Step 00045300 L_out=3.813 Acc=0.83 --- 2519.64 ms/batch
+Step 00045350 L_out=2.846 Acc=0.89 --- 3532.89 ms/batch
+Step 00045400 L_out=3.593 Acc=0.87 --- 2664.33 ms/batch
+Step 00045450 L_out=1.831 Acc=0.90 --- 2741.24 ms/batch
+Step 00045500 L_out=2.152 Acc=0.93 --- 1754.08 ms/batch
+eval accuracy: 0.8252818196614583
+mean IOU:0.556923289572185
+Mean IoU = 55.7%
+--------------------------------------------------------------------------------------
+55.69 | 88.70 93.62 73.08  0.00 23.60 44.69 47.85 69.54 77.67 54.10 65.38 37.73 48.03 
+--------------------------------------------------------------------------------------
+
+Best m_IoU of S3DIS is: 55.692
+****EPOCH 93****
+Step 00045550 L_out=1.015 Acc=0.92 --- 3007.12 ms/batch
+Step 00045600 L_out=6.246 Acc=0.76 --- 3191.18 ms/batch
+Step 00045650 L_out=2.099 Acc=0.82 --- 3016.38 ms/batch
+Step 00045700 L_out=1.869 Acc=0.90 --- 2894.18 ms/batch
+Step 00045750 L_out=2.339 Acc=0.90 --- 3214.40 ms/batch
+Step 00045800 L_out=4.643 Acc=0.82 --- 3267.44 ms/batch
+Step 00045850 L_out=3.042 Acc=0.85 --- 2628.76 ms/batch
+Step 00045900 L_out=2.083 Acc=0.88 --- 2293.16 ms/batch
+Step 00045950 L_out=4.269 Acc=0.86 --- 2152.67 ms/batch
+Step 00046000 L_out=2.073 Acc=0.88 --- 1695.73 ms/batch
+****EPOCH 94****
+Step 00046050 L_out=1.801 Acc=0.90 --- 2489.88 ms/batch
+Step 00046100 L_out=2.489 Acc=0.88 --- 3029.40 ms/batch
+Step 00046150 L_out=2.389 Acc=0.89 --- 2455.40 ms/batch
+Step 00046200 L_out=3.377 Acc=0.89 --- 2640.95 ms/batch
+Step 00046250 L_out=2.500 Acc=0.88 --- 2712.37 ms/batch
+Step 00046300 L_out=3.014 Acc=0.85 --- 2310.36 ms/batch
+Step 00046350 L_out=2.457 Acc=0.89 --- 2700.70 ms/batch
+Step 00046400 L_out=2.074 Acc=0.86 --- 2302.52 ms/batch
